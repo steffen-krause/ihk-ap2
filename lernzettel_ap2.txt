@@ -1,0 +1,1231 @@
+Themenbereiche der Prüfung
+Für Anwendungsentwickler:innen gibt es in der Abschlussprüfung vier Themenbereiche:
+	•	Planen und Umsetzen eines Softwareprojektes (das klassische „Abschlussprojekt“ mit Projektdokumentation)
+	•	Planen eines Softwareproduktes (schriftliche Prüfung) 
+	•	Entwicklung und Umsetzung von Algorithmen (schriftliche Prüfung) 
+	•	Wirtschafts- und Sozialkunde (schriftliche Multiple-Choice-Prüfung)
+Planen und Umsetzen eines Softwareprojektes
+Projekt:
+	•	kundenspezifische Anforderungen zu analysieren, 
+	•	eine Projektplanung durchzuführen, 
+	•	eine wirtschaftliche Betrachtung des Projektes vorzunehmen, 
+	•	eine Softwareanwendung zu erstellen oder anzupassen, 
+	•	die erstellte oder angepasste Softwareanwendung zu testen und ihre Einführung vorzubereiten und 
+	•	die Planung und Durchführung des Projektes anforderungsgerecht zu dokumentieren. 
+Präsentation und Fachgespräch:
+	•	die Arbeitsergebnisse adressatengerecht zu präsentieren und
+	•	seine Vorgehensweise bei der Durchführung der betrieblichen Projektarbeit zu begründen.
+Planen eines Softwareproduktes
+	•	Entwicklungsumgebungen und -bibliotheken auszuwählen und einzusetzen, 
+	•	Programmspezifikationen anwendungsgerecht festzulegen, 
+	•	Bedienoberflächen funktionsgerecht und ergonomisch zu konzipieren sowie 
+	•	Maßnahmen zur Qualitätskontrolle zu planen und durchzuführen. 
+Entwicklung und Umsetzung von Algorithmen
+	•	einen Programmcode zu interpretieren und eine Lösung in einer Programmiersprache zu erstellen, 
+	•	Algorithmen in eine Programmierlogik zu übertragen und grafisch darzustellen, 
+	•	Testszenarien auszuwählen und Testdaten zu generieren sowie 
+	•	Abfragen zur Gewinnung und Manipulation von Daten zu erstellen. 
+Wirtschafts- und Sozialkunde
+	•	allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darzustellen und zu beurteilen. 
+
+Durchführen und Dokumentieren von qualitätssichernden Maßnahmen
+	•	Ursachen von Qualitätsmängeln systematisch feststellen, beseitigen und dokumentieren 
+	•	im Rahmen eines Verbesserungsprozesses die Zielerreichung kontrollieren, insbesondere einen Soll-Ist-Vergleich durchführen 
+	•	Methoden der Qualitätslenkung anwenden 
+	•	Methoden zur Messung der Zielerreichung im QM-Prozess kennen und anwenden 
+Umsetzen, Integrieren und Prüfen von Maßnahmen zur IT-Sicherheit und zum Datenschutz
+	•	Bedrohungsszenarien erkennen und Schadenspotenziale unter Berücksichtigung wirtschaftlicher und technischer Kriterien einschätzen 
+	•	Kunden und Kundinnen im Hinblick auf Anforderungen an die IT-Sicherheit und an den Datenschutz beraten 
+	•	Wirksamkeit und Effizienz der umgesetzten Maßnahmen zur IT-Sicherheit und zum Datenschutz prüfen 
+	•	Schadenspotenziale von IT-Sicherheitsvorfällen einschätzen und Schäden verhindern können 
+	•	Präventive IT-Sicherheitsmaßnahmen für verschiedene Bedrohungsszenarien planen und umsetzen 
+	•	Ziele zur Entwicklung von IT-Sicherheitskriterien definieren 
+	•	Kunden zur IT-Sicherheit beraten 
+	•	IT-Sicherheitsmaßnahmen mit verschiedenen Tools überprüfen 
+	•	Technische organisatorische Maßnahmen (TOM) kontrollieren 
+	•	Technisch Organisatorische Maßnahmen (TOM)
+	•	Bedrohungsszenarien, z. B. Man-in-the-Middle, SQL-Injection, DDoS-Attack
+Betreiben von IT-Systemen
+	•	Netzwerkkonzepte für unterschiedliche Anwendungsgebiete unterscheiden 
+	•	Datenaustausch von vernetzten Systemen realisieren 
+	•	Verfügbarkeit und Ausfallwahrscheinlichkeiten analysieren und Lösungsvorschläge unterbreiten 
+	•	Maßnahmen zur präventiven Wartung und zur Störungsvermeidung einleiten und durchführen 
+	•	Störungsmeldungen aufnehmen und analysieren sowie Maßnahmen zur Störungsbeseitigung ergreifen 
+	•	Dokumentationen zielgruppengerecht und barrierefrei anfertigen, bereitstellen und pflegen, insbesondere technische Dokumentationen, System- sowie Benutzerdokumentationen 
+	•	Schichtenmodelle, z.B. OSI, TCP/IP benennen und zuordnen können 
+	•	Netzwerkkomponenten vergleichen und analysieren können 
+	•	Netzwerkkonzepte (-topologien, -Infrastrukturen) benennen und charakterisieren 
+	•	Peer 2 Peer bzw. Client-Server-Konzepte vergleichen und hinsichtlich ihres Einsatzes bewerten können 
+	•	Übertragungsprotokolle erläutern und zielgerichtet einsetzen können 
+	•	Standortübergreifende und -unabhängige Kommunikation situationsgerecht auswählen und einrichten können 
+	•	Netzwerkrelevante Dienste beschreiben können 
+	•	Anforderungen an Verfügbarkeit von Anwendungsdiensten beurteilen können 
+	•	Risiken identifizieren, Maßnahmen planen und Ausfallwahrscheinlichkeiten berücksichtigen 
+	•	Maßnahmen zur Sicherstellung des Betriebes beurteilen können 
+	•	Monitoringsysteme anwenden und Ergebnisse interpretieren können 
+	•	Monitoringergebnisse analysieren und korrektive Maßnahmen bestimmen können 
+	•	Erstellen und Erweitern von Handbüchern für Benutzer und Systembetreuer 
+Inbetriebnehmen von Speicherlösungen
+	•	Sicherheitsmechanismen, insbesondere Zugriffsmöglichkeiten und -rechte, festlegen und implementieren 
+	•	Speicherlösungen, insbesondere Datenbanksysteme, integrieren 
+	•	Technische und organisatorische Maßnahmen (TOM) 
+	•	Möglichkeiten der physischen/hardwaretechnischen Absicherung benennen 
+	•	Möglichkeiten der softwaretechnischen Absicherung implementieren können 
+	•	Verschiedene Service- und Liefermodelle benennen und bedarfsorientiert auswählen können 
+	•	Daten heterogener Quellen zusammenführen können 
+	•	Netzwerkkomponenten und -Protokolle beschreiben können 
+Programmieren von Softwarelösungen
+	•	Programmspezifikationen festlegen, Datenmodelle und Strukturen aus fachlichen Anforderungen ableiten sowie Schnittstellen festlegen 
+	•	Programmiersprachen auswählen und unterschiedliche Programmiersprachen anwenden 
+	•	Teilaufgaben von IT-Systemen automatisieren 
+	•	Softwareanforderungen erfassen können  
+	•	Planen mit geeigneten Modellen 
+	•	Festlegen von Schnittstellen und vorhandene Schnittstellen nutzen 
+	•	Situationsgerechte Auswahl einer passenden Programmiersprache begründen können 
+	•	Algorithmen in einer Programmiersprache darstellen 
+	•	Die Darstellung soll in allgemein verständlichem Programm- oder Pseudocode erfolgen. Der Code soll für Dritte, ohne Kenntnis der verwendeten Programmiersprache, lesbar sein. Der Code muss nicht in der geschriebenen Sprache kompilierbar bzw. ausführbar sein. 
+Konzipieren und Umsetzen von kundenspezifischen Softwareanwendungen
+	•	Vorgehensmodelle und -methoden sowie Entwicklungsumgebungen und -bibliotheken auswählen und einsetzen 
+	•	Analyse- und Designverfahren anwenden 
+	•	Benutzerschnittstellen ergonomisch gestalten und an Kundenanforderungen anpassen Anwendungslösungen unter Berücksichtigung der bestehenden Systemarchitektur entwerfen und realisieren 
+	•	bestehende Anwendungslösungen anpassen 
+	•	Datenaustausch zwischen Systemen realisieren und unterschiedliche Datenquellen nutzen 
+	•	komplexe Abfragen aus unterschiedlichen Datenquellen durchführen und Datenbestandsberichte erstellen 
+	•	Vorgehensmodelle unterscheiden können 
+	•	Strukturierte Analyse- und Designverfahren anwenden können 
+	•	Objektorientierte Analyse- und Designverfahren anwenden können 
+	•	Programmspezifikationen festlegen, Datenmodelle und Strukturen aus fachlichen Anforderungen ableiten, Schnittstellen festlegen, geeignete Programmiersprachen auswählen 
+	•	Konzepte von Programmiersprachen (z. B. strukturiert, prozedural, funktional, objektorientiert) kennen und exemplarisch Programmiersprachen nennen können 
+	•	Software-Entwicklungswerkzeuge aufgabenbezogen anwenden können 
+	•	Einsatzmöglichkeiten von Programmiersprachen kennen 
+	•	Lasten-/Pflichtenheft erstellen können 
+	•	UML-Diagramme erstellen können 
+	•	Datenmodelle erstellen können 
+	•	Normalisierung anwenden können (1. bis 3. Normalform) 
+	•	Architektur- und Design-Pattern anwenden können, z. B.
+	•	Anforderungen an die Softwareergonomie benennen und beurteilen können 
+	•	Benutzeroberfläche gestalten können 
+	•	Prototypen (Mock-ups) erstellen können 
+	•	Algorithmen erstellen können 
+	•	Objektorientierte Programmiermethodenkonzepte anwenden können, z. B. 
+	•	Einfache Such- und Sortier-Algorithmen kennen 
+	•	Bestehende Funktionen/Klassen erweitern 
+	•	Dateiformate zum Datenaustausch anwenden können und deren Einsatzbereiche kennen 
+	•	Möglichkeiten zur Nutzung von Services und Ressourcen eines Servers kennen 
+	•	Datenbankabfrage, Datenpflege mit SQL erstellen können 
+	•	Vorgehensmodelle unterscheiden können 
+	•	Strukturierte Analyse- und Designverfahren anwenden können 
+	•	Objektorientierte Analyse- und Designverfahren anwenden können 
+	•	Programmspezifikationen festlegen, Datenmodelle und Strukturen aus fachlichen Anforderungen ableiten, Schnittstellen festlegen, geeignete Programmiersprachen auswählen 
+	•	Konzepte von Programmiersprachen (z. B. strukturiert, prozedural, funktional, objektorientiert) kennen und exemplarisch Programmiersprachen nennen können 
+	•	Software-Entwicklungswerkzeuge aufgabenbezogen anwenden können 
+	•	Einsatzmöglichkeiten von Programmiersprachen kennen 
+	•	Lasten-/Pflichtenheft erstellen können 
+	•	UML-Diagramme erstellen können 
+	•	Datenmodelle erstellen können 
+	•	Normalisierung anwenden können (1. bis 3. Normalform) 
+	•	Design-Pattern anwenden können 
+	•	Anforderungen an die Softwareergonomie benennen und beurteilen können 
+	•	Benutzeroberfläche gestalten können 
+	•	Prototypen (Mock-ups) erstellen können 
+	•	Algorithmen erstellen können 
+	•	Objektorientierte Programmiermethoden anwenden können 
+	•	Einfache Such- und Sortier-Algorithmen kennen 
+	•	Bestehende Funktionen/Klassen erweitern 
+	•	Dateiformate zum Datenaustausch anwenden können und deren Einsatzbereiche kennen 
+	•	Möglichkeiten zur Nutzung von Services und Ressourcen eines Servers kennen 
+	•	Datenbankabfrage, Datenpflege mit SQL erstellen können 
+Sicherstellen der Qualität von Softwareanwendungen
+	•	Sicherheitsaspekte bei der Entwicklung von Softwareanwendungen berücksichtigen 
+	•	Datenintegrität mithilfe von Werkzeugen sicherstellen 
+	•	Modultests erstellen und durchführen können (Unit-Tests) 
+	•	Werkzeuge zur Versionsverwaltung einsetzen 
+	•	Testkonzepte erstellen und Tests durchführen sowie Testergebnisse bewerten und dokumentieren 
+	•	Daten und Sachverhalte aus Tests multimedial aufbereiten und situationsgerecht unter Nutzung digitaler Werkzeuge und unter Beachtung der betrieblichen Vorgaben präsentieren 
+	•	Anwendungen unter Berücksichtigung von Datenschutz und Datensicherheit erstellen können 
+	•	Datenintegrität mithilfe von technischen Maß­nahmen beurteilen und sicherstellen können 
+	•	Modultests erstellen und durchführen können (Unit-Tests) 
+	•	Grundfunktionalitäten einer Versionsverwaltung in ihrem Einsatz beschreiben und anwenden können, z. B. Branches, Pull, Push, Merge 
+	•	Softwaretests erstellen, durchführen und die Ergebnisse analysieren können 
+	•	Daten und Sachverhalte aus Tests multimedial aufbereiten und situationsgerecht unter Nutzung digitaler Werkzeuge und unter Beachtung der betrieblichen Vorgaben präsentieren 
+Themencluster
+Datenbanken
+	•	Datentypen: Boolesche Werte, Ganzzahl, Gleitkommawerte, Währung, Datumswerte, Texte fester und variabler Länge, BLOB, Geokoordinaten 
+	•	OpenData, API-Schnittstellen 
+	•	Als Open Data (aus englisch open data ‚offene Daten‘) werden Daten bezeichnet, die von allen zu jedem Zweck genutzt, weiterverbreitet und weiterverwendet werden dürfen. Einschränkungen der Nutzung sind nur erlaubt, um Ursprung und Offenheit des Wissens zu sichern, beispielsweise durch Nennung des Urhebers oder die Verwendung einer Share-alike-Klausel. Solch eine Einschränkung ist nur dann möglich, wenn die Daten durch Immaterialgüterrechte geschützt sind. 
+	•	Datenquellen: nicht nur relationelle und schemafreie Datenbanken wie MySQL, MsSQL und MongoDB, sondern auch z. B. Sensoren, CSV-Dateien 
+	•	Begriffe kennen und erläutern 
+	•	Redundanz 
+	•	das Vorhandensein von eigentlich überflüssigen, für die Information nicht notwendigen Elementen; Überladung mit Merkmalen (meist bei Datenbanken, dass Informationen mehrfach vorhanden sind)
+	•	Kardinalitäten: 1:1, 1:n, m:n 
+	•	Primär-/Fremdschlüssel und andere Schlüsseltypen: anonym, künstlich/natürlich 
+	•	Kandidatenschlüssel: Ein Attribut oder eine Gruppe von Attributen, das/die einen Datensatz eindeutig identifizieren kann. 
+	•	Superschlüssel: Eine Kombination aus Attributen, die eine oder mehrere Zeilen eindeutig identifizieren kann, wobei die Attribute nicht unbedingt die kleinstmögliche Menge sein müssen. 
+	•	Alternativschlüssel: Ein Kandidatenschlüssel, der nicht als Primärschlüssel gewählt wurde. 
+	•	Eindeutige Schlüssel: Ähnlich dem Primärschlüssel, der eine Spalte zur Eindeutigkeit zwingt. Im Gegensatz zum Primärschlüssel erlaubt der eindeutige Schlüssel jedoch null Werte. 
+	•	Sekundärschlüssel: Eine Spalte, die nicht eindeutig sein muss, aber für die Suche und für Indizierungszwecke verwendet wird. 
+	•	referentielle Integrität (Aktualisierungsweitergabe, Löschweitergabe) 
+	•	stellt sicher, dass Beziehungen zwischen Tabellen in einer Datenbank konsistent bleiben, indem sie verhindert, dass Fremdschlüssel auf nicht existierende Primärschlüssel verweisen
+	•	Maßnahmen bei Löschoperationen (Constraints): CASCADE, DENY/RESTRICT, SET NULL, (NO ACTION) 
+	•	Tiefergehende Datenbankobjekte: 
+	•	Index: Datenstruktur, die Abfragen beschleunigt, indem sie eine sortierte Liste von Werten aus einer oder mehreren Spalten einer Tabelle speichert und auf die physischen Speicherorte der Daten verweist
+	•	Stored Procedure: Sammlungen von SQL-Befehlen, die als einzelnes, benanntes Objekt in einer Datenbank gespeichert und ausgeführt werden können
+	•	Trigger: ein gespeichertes Programm, das automatisch als Reaktion auf ein bestimmtes Ereignis in einer Tabelle (wie INSERT, UPDATE oder DELETE) ausgeführt wird
+	•	Sequence: separates, gespeichertes Datenbankobjekt, das eine fortlaufende, eindeutige numerische Reihenfolge generiert
+	•	Replikation, das häufige elektronische Kopieren von Daten aus einer Datenbank auf einem Computer oder Server in eine Datenbank auf einem anderen, so dass alle Benutzer den gleichen Informationsstand haben
+	•	ACID-Prinzipien für Transaktionen kennen und erläutern 
+	•	atomicity: Eine Transaktion wird entweder vollständig ausgeführt oder gar nicht. Es gibt keinen teilweisen Abschluss. Dies verhindert Datenverlust, falls ein Fehler auftritt
+	•	consistency: Jede Transaktion muss die vordefinierten Regeln und Integritätsbeschränkungen der Datenbank einhalten und die Daten in einem gültigen Zustand hinterlassen
+	•	isolation: Gleichzeitige Transaktionen beeinflussen sich nicht gegenseitig. Jede Transaktion läuft so ab, als würde sie exklusiven Zugriff auf die Datenbank haben
+	•	durability: Nach erfolgreicher Durchführung sind die Änderungen an den Daten dauerhaft gespeichert, selbst wenn das System ausfällt
+Datenbankmodelle und -modellierung
+	•	Relationale und nicht-relationale Datenbanken 
+	•	verschiedene Datenbankmodelle, z.B. 
+	•	relationales Datenbankmodell, eine digitale Datenbank, die zur elektronischen Datenverwaltung in Computersystemen dient und auf einem tabellenbasierten relationalen Datenbankmodell beruht. Grundlage des Konzeptes relationaler Datenbanken ist die Relation. Sie stellt eine mathematische Beschreibung einer Tabelle dar und ist ein im mathematischen Sinn wohldefinierter Begriff
+	•	hierarchisches Modell, es bildet die reale Welt durch eine hierarchische Baumstruktur ab. Jeder Satz (engl. Record) hat also genau einen übergeordneten Vorgänger, mit Ausnahme genau eines Satzes, nämlich der Wurzel der so entstehenden Baumstruktur
+	•	semantische Datenmodelle, ist im Rahmen der Datenmodellierung eine abstrakte, formale Beschreibung und Darstellung eines Ausschnittes der in einem bestimmten Zusammenhang (z. B. eines Projekts) „wahrgenommenen Welt“. Zur Formulierung semantischer Datenmodelle existieren verschiedene Modellierungssprachen, von denen das Entity-Relationship-Modell das bekannteste ist
+	•	objektorientierte Datenmodelle, Unterschied zur relationalen Datenbank werden Daten hier als Objekte im Sinne der Objektorientierung verwaltet. Ein Objekt modelliert normalerweise einen Gegenstand oder Begriff und enthält insbesondere dazugehörige Attribute; so gehört zum Beispiel die Farbe und das Gewicht eines Autos zu dem Objekt Auto. Attribute beschreiben ein Objekt näher. Daten und Methoden (die Funktionen zum Zugriff auf die Daten) werden in den Objekten zusammen abgelegt
+	•	als theoretische Grundlage für eine Datenbank kennen und nach Einsatzszenario unterscheiden 
+	•	NoSQL: 
+	•	dokumentenorientiert, Speichern Daten in dokumentenähnlichen Strukturen wie JSON. Beispiele: MongoDB, Couchbase
+	•	spaltenorientiert, Speichern Daten spaltenweise statt zeilenweise. Beispiele: Cassandra, HBase
+	•	Key/Value-Store, Speichern Daten als Schlüssel-Wert-Paare, die sehr schnell abgerufen werden können. Beispiele: Redis, DynamoDB
+	•	Graphendatenbank, Speichern Daten in Form von Knoten und Kanten, die Beziehungen zueinander darstellen. Beispiele: Neo4j, Amazon Neptune
+	•	diverses hierzu:
+	•	CAP-Theorem:
+	•	a distributed system cannot simultaneously guarantee all three of the following properties: Consistency, Availability, and Partition Tolerance
+	•	Consistency, Every read receives the most recent write or an error. This means all nodes in the system see the same data at the same time
+	•	Availability, Every request receives a non-error response, without the guarantee that it contains the most recent write
+	•	Partition Tolerance, The system continues to operate despite network partitions (communication breakdowns between nodes)
+	•	BASE (Basically Available, Soft State, Eventually Consistent)
+	•	Im Gegensatz dazu priorisieren BASE-Datenbanken die Verfügbarkeit vor der Konsistenz. Anstatt die Transaktion fehlschlagen zu lassen, können Benutzer vorübergehend auf inkonsistente Daten zugreifen. Datenkonsistenz wird erreicht, aber nicht sofort
+	•	Basically Available, beschreibt, dass eine Datenbank auch bei Teilausfällen oder Netzwerkproblemen grundsätzlich verfügbar bleibt, also auf Anfragen reagiert
+	•	Soft State, bezieht sich auf den temporären, inkonsistenten Zustand von Daten in verteilten Systemen, der durch gleichzeitige Updates entsteht
+	•	Eventual Consistency, ein Konsistenzmodell für verteilte Datenbanken, das im Gegensatz zur strikten Konsistenz die Verfügbarkeit und Skalierbarkeit durch verzögerte Synchronisation priorisiert
+	•	Phasen der Datenbankentwicklung kennen und anwenden 
+	•	externe Phase (Informationsbeschaffung/Anforderungsanalyse) 
+	•	Ziel: Ermittlung der Informationen, die eine Datenbank speichern und verwalten soll
+	•	Vorgehen: Klärung des Informationsbedarfs der Nutzer, der benötigten Daten und der Ziele der Datenbank
+	•	konzeptionelle Phase (Semantisches Modell/Konzeptioneller Entwurf) 
+	•	Ziel: Erstellung eines semantischen Datenmodells, z.B. eines Entity-Relationship-Modells (ER-Modell), um die relevanten Objekte (Entitäten) und ihre Beziehungen zueinander zu strukturieren
+	•	logische Phase (Datenmodell) 
+	•	Ziel: Überführung des konzeptionellen Modells in ein logisches relationales Modell, das die Daten in Tabellen (Relationen) und deren Beziehungen darstellt
+	•	physische Phase (Datenbankschema) 
+	•	Ziel: Die eigentliche Modellierung der Datenbankstruktur innerhalb eines spezifischen Datenbankmanagementsystems (DBMS)
+	•	Grundlagen der Datenmodellierung anwenden, z.B. Entitäten, Relationsbeziehungen, Normalisierung, Identifikationsschlüssel 
+	•	Definieren und Modellieren von Datenbankstrukturen, z.B. Entity-Relationship-Modell, Normalisierung 
+	•	ER-Diagramm (Entity Relationship Model): Entitätstypen, Attribute, Beziehungen, Kardinalitäten 
+	•	Crow’s Foot Notation (fuck this shit)
+Normalisierung 
+	•	Normalformen erläutern („the key, the whole key, and nothing but the key“) 
+	•	Normalisierung von Datenbanken bis zur 3. Normalform durchführen 
+	•	1. Normalform (1NF)
+	•	Bedingung: Jedes Attribut enthält nur atomare (unteilbare) Werte. 
+	•	Beispiel: Eine Spalte namens "Adresse" wird in separate Spalten wie "Straße", "PLZ" und "Ort" aufgeteilt. 
+	•	2. Normalform (2NF)
+	•	Bedingung: Die Tabelle ist in 1NF und alle Nicht-Schlüsselattribute hängen vollständig vom gesamten Primärschlüssel ab (gilt nur für Tabellen mit zusammengesetzten Primärschlüsseln). 
+	•	Beispiel: Wenn der Primärschlüssel aus "Kurs" und "Student" besteht, darf ein Attribut wie "Kursname" nicht nur vom "Kurs" abhängen, sondern muss in eine separate Tabelle verschoben werden. 
+	•	3. Normalform (3NF)
+	•	Bedingung: Die Tabelle ist in 2NF und es gibt keine transitiven Abhängigkeiten. Das bedeutet, ein Nicht-Schlüsselattribut kann nicht von einem anderen Nicht-Schlüsselattribut abhängen. 
+	•	Beispiel: Wenn "Lehrer" und "Klasse" in der Schüler-Tabelle stehen und "Lehrer" wiederum eine eigene "Klassenzimmer-Nr." hat, muss die "Klassenzimmer-Nr." in eine separate Tabelle "Klassen" verschoben werden.
+	•	Anomalien (Einfüge-, Änderungs-, Löschanomalie) erläutern 
+	•	Einfüge-Anomalie:
+	•	Tritt auf, wenn ein Datensatz nicht eingefügt werden kann, weil Informationen fehlen, die nicht Teil des Primärschlüssels sind. 
+	•	Beispiel: Sie können keine neuen Kursdaten speichern, wenn der Kurs noch keinen Lehrer hat, da der Lehrer als Teil des Primärschlüssels in der Tabelle definiert ist.
+	•	Änderungs-Anomalie:
+	•	 Entsteht, wenn die Änderung eines Datensatzes nicht an allen Stellen durchgeführt wird, an denen er dupliziert ist. 
+	•	Beispiel: Wenn Sie den Familienstand einer Person ändern, aber die Änderung nur an einer Stelle in der Datenbank vorgenommen wird, sind die Daten inkonsistent. 
+	•	Lösch-Anomalie:
+	•	Passiert, wenn das Löschen eines Datensatzes zum Verlust von Daten führt, die eigentlich erhalten bleiben sollten. 
+	•	Beispiel: Das Löschen des letzten Autos eines Fahrers kann auch die Fahrraddaten dieses Fahrers löschen, wenn sie in derselben Tabelle gespeichert sind. 
+	•	Anomalien / Redudanzen erkennen
+	•	Modellierung von Beziehungen (1:1, 1:n, m:n) 
+	•	mögliche Beispiele: Benutzer/Login (1:1), Benutzer/Bestellung (1:n), Benutzer/Benutzergruppe (m:n) 
+SQL 
+	•	Erstellen einfacher Abfragen von Datenquellen unter Verwendung einer Abfragesprache und komplexe Abfragen aus unterschiedlichen Datenquellen durchführen und Datenbestandsberichte erstellen  
+	•	Projektion vs. Selektion 
+	•	Die Projektion wird mit der SELECT-Klausel realisiert, die angibt, welche Spalten angezeigt werden sollen, während die Selektion mithilfe der WHERE-Klausel Bedingungen für die zu behaltenden Zeilen festlegt
+	•	Kreuzprodukt/kartesisches Produkt 
+	•	Ein SQL-Kreuzprodukt, auch "Cross Join"oder "kartesisches Produkt" genannt, verknüpft jede Zeile der ersten Tabelle mit jeder Zeile der zweiten Tabelle. Das Ergebnis ist eine Tabelle mit allen möglichen Zeilenkombinationen, deren Anzahl dem Produkt der Zeilen der beiden Ausgangstabellen entspricht. In SQL wird dies oft durch die Trennung von Tabellennamen mit einem Komma im FROM-Clause oder explizit mit CROSS JOIN erreicht
+	•	DDL, DML, DQL, DCL, TCL 
+	•	DDL - Data Definition Language
+	•	DDL (Data Definition Language) actually consists of SQL commands that can be used for defining, altering and deleting database structures such as tables, indexes and schemas. It simply deals with descriptions of the database schema and is used to create and modify the structure of database objects in the database
+	•	CREATE, DROP, ALTER, TRUNCATE, COMMENT, RENAME
+	•	DQL - Data Query Language
+	•	DQL is used to fetch data from the database. The main command is SELECT, which retrieves records based on the query. The output is returned as a result set (a temporary table) that can be viewed or used in applications
+	•	SELECT (FROM, WHERE, GROUP BY, HAVING, DISTINCT, ORDER BY, LIMIT)
+	•	DML - Data Manipulation Language
+	•	DML commands are used to manipulate the data stored in database tables. With DML, you can insert new records, update existing ones, delete unwanted data or retrieve information.
+	•	INSERT, UPDATE, DELETE
+	•	DCL - Data Control Language 
+	•	DCL (Data Control Language) includes commands such as GRANT and REVOKE which mainly deal with the rights, permissions and other controls of the database system. These commands are used to control access to data in the database by granting or revoking permissions.
+	•	GRANT, REVOKE
+	•	TCL - Transaction Control Language 
+	•	Transactions group a set of tasks into a single execution unit. Each transaction begins with a specific task and ends when all the tasks in the group are successfully completed. If any of the tasks fail, transaction fails. Therefore, a transaction has only two results: success or failure.
+	•	BEGIN TRANSACTION, COMMIT, ROLLBACK, SAVEPOINT
+	•	CRUD (Create, Read, Update, Delete): INSERT/SELECT/UPDATE/DELETE 
+	•	SELECT-Aufbau rauf und runter: FROM, WHERE, JOIN, GROUP BY, HAVING, ORDER BY, (LIMIT) 
+	•	SELECT column_name(s) FROM table_name WHERE condition GROUP BY column_name(s) HAVING condition ORDER BY column_name(s);
+	•	Subqueries 
+	•	LIKE-Syntax (Platzhalter) 
+	•	Abfrage über mehrere Tabellen (JOIN) 
+	•	verschiedene Joins erklären (INNER, OUTER LEFT/RIGHT/FULL, Natural, Self) 
+	•	A JOIN clause is used to combine rows from two or more tables, based on a related column between them.
+	•	SELECT Orders.OrderID, Customers.CustomerName, Orders.OrderDate FROM Orders INNER JOIN Customers ON Orders.CustomerID=Customers.CustomerID; 
+	•	INNER JOIN: Returns records that have matching values in both tables 
+
+
+
+
+	•	LEFT JOIN: Returns all records from the left table, and the matched records from the right table 
+
+
+
+
+
+	•	RIGHT JOIN: Returns all records from the right table, and the matched records from the left table 
+
+
+
+
+
+	•	
+	•	
+	•	CROSS JOIN: Returns all records from both tables 
+
+
+
+
+	•	Ausdrücke und Bedingungen 
+	•	Nutzung von Aggregatsfunktionen, z.B. COUNT, SUM, AVG 
+	•	The COUNT() function returns the number of rows that matches a specified criterion.
+	•	SELECT COUNT(column_name) FROM table_name WHERE condition; 
+	•	The AVG() function returns the average value of a numeric column. 
+	•	SELECT AVG(column_name) FROM table_name WHERE condition; 
+	•	The SUM() function returns the total sum of a numeric column. 
+	•	SELECT SUM(column_name) FROM table_name WHERE condition; 
+	•	Tabellenstruktur (CREATE, ALTER, DROP, DESCRIBE, SHOW DATABASES, SHOW TABLES) 
+	•	The CREATE TABLE statement is used to create a new table in a database.
+	•	CREATE TABLE table_name (     column1 datatype,     column2 datatype,     column3 datatype,    .... ); 
+	•	CREATE TABLE Persons (     PersonID int,     LastName varchar(255),     FirstName varchar(255),     Address varchar(255),     City varchar(255)  );
+	•	The ALTER TABLE statement is used to add, delete, or modify columns in an existing table.
+	•	The ALTER TABLE statement is also used to add and drop various constraints on an existing table.
+	•	ALTER TABLE table_name ADD column_name datatype; 
+	•	ALTER TABLE table_name DROP COLUMN column_name; 
+	•	ALTER TABLE table_name MODIFY COLUMN column_name datatype; 
+	•	The DROP TABLE statement is used to drop an existing table in a database.
+	•	DROP TABLE table_name; 
+	•	The TRUNCATE TABLE statement is used to delete the data inside a table, but not the table itself.
+	•	The DESCRIBE and EXPLAIN statements are synonyms, used either to obtain information about table structure or query execution plans
+	•	Die SHOW Befehle zeigen literally einfach jeweils die vorhandenen Datenbanken oder Tabellen an
+	•	Manipulation (INSERT, UPDATE, DELETE) 
+	•	Projektion (SELECT FROM) 
+	•	Selektion (SELECT FROM… WHERE) und (SELECT… (SELECT…)), DISTINCT 
+	•	Sortieren (ORDER BY ASC/DESC) 
+	•	Gruppieren (GROUP BY, HAVING) 
+	•	Index (CREATE INDEX) 
+	•	Schnitt-, Vereinigungs- und Differenzmenge (INTERSECT, UNION (ALL), MINUS) 
+	•	In MySQL, the INTERSECT operator is used to find common records between two result sets. However, MySQL does not support the INTERSECT operator natively. To achieve similar functionality, you can use alternative methods such as INNER JOINs or subqueries. 
+	•	The UNION operator is used to combine the result-set of two or more SELECT statements.
+	•	The UNION operator automatically removes duplicate rows from the result set.
+	•	Requirements for UNION: 
+	•	Every SELECT statement within UNION must have the same number of columns
+	•	The columns must also have similar data types
+	•	The columns in every SELECT statement must also be in the same order
+	•	SELECT column_name(s) FROM table1 UNION SELECT column_name(s) FROM table2; 
+	•	SQL Injection 
+	•	SQL injection is a code injection technique.
+	•	SQL injection is one of the most common web hacking techniques.
+	•	SQL injection is the placement of malicious code in SQL statements, via web page input.
+Qualitätssicherung 
+	•	Ursachen von Qualitätsmängeln systematisch feststellen, beseitigen und dokumentieren 
+	•	Verschiedene Prüfverfahren, z.B. Parität, Redundanz 
+	•	Parität
+	•	In der Informatik ist die Parität (vom lateinischen paritas, was gleich oder gleichwertig bedeutet) eine Technik, mit der überprüft wird, ob Datenverlust vorliegt oder ob sie von einem Speicherort zu einem anderen verschoben oder zwischen Computern übertragen wurden.
+	•	Dieser Begriff wird gewöhnlich im Zusammenhang mit einem Paritätsbit verwendet, das ein redundantes Prüfbit ist und zur Validierung von Daten und zum Auffinden von Fehlern bei der Datenübertragung dient. Die Aufgabe des Paritätsbits besteht darin, dem Datenempfänger zu helfen, Fehler zu erkennen, die bei der Übertragung dieser Daten aufgetreten sein könnten. Die Paritätsprüfung wird auch als vertikale Redundanzprüfung oder VRC (Vertical Redundancy Check) bezeichnet.
+	•	Debugging, Ablaufverfolgung  
+	•	Verbesserungsprozess, PDCA-Zyklus, KVP, Kennzahlen 
+	•	KVP
+	•	Der Prozess der kontinuierlichen Verbesserung, auch kontinuierlicher Verbesserungsprozess (KVP, englisch: Continual Improvement Process (CIP), auch Continuous Improvement Process) ist eine Denkweise, die mit stetigen Verbesserungen in kleinen Schritten die Wettbewerbsfähigkeit der Unternehmen stärken will. Ein KVP kann sich z. B. auf die Produkt-, die Prozess- und die Servicequalität beziehen. KVP wird im Rahmen von Teamarbeit durch fortwährende kleine Verbesserungsschritte (im Gegensatz zu Innovationen in Form großer, einschneidender Neuerungen) umgesetzt. KVP ist ein Grundprinzip des Qualitätsmanagements und unverzichtbarer Bestandteil der ISO 9001. Das Erarbeiten von Verbesserungsvorschlägen durch Arbeitsgruppen wird üblicherweise gemeinsam mit dem betrieblichen Vorschlagswesen unter dem Begriff Ideenmanagement zusammengefasst.
+	•	PDCA 
+	•	steht hierbei für das Englische Plan – Do – Check – Act, was im Deutschen auch mit „Planen – Umsetzen – Überprüfen – Handeln“ übersetzt wird. Die Ursprünge des Prozesses liegen in der Qualitätssicherung, er wurde vom US-amerikanischen Physiker Walter Andrew Shewhart entwickelt.
+	•	Kennzahlen
+	•	Kennzahlen sind quantifiziert angegebene Merkmale zu einer im jeweiligen Zusammenhang wichtigen Bedeutung. Oft sind sie quantitative Angaben, die Sachverhalte durch Verdichtung des Wissens über die Realität darstellen.
+	•	Eine Kennzahl oder Index ist eine Zahl zur Quantifizierung eines naturwissenschaftlich-technischen, betrieblichen oder wirtschaftlichen Zusammenhangs. Dabei existiert aber in der Literatur keine einheitliche Definition für den Begriff Kennzahl.   
+	•	Constraints 
+	•	Constraints definieren Bedingungen, die beim Einfügen, Ändern und Löschen von Datensätzen in der Datenbank erfüllt werden müssen. Viele Datenbanksysteme kennen zusätzlich zu den Constraints noch Transaktionen.
+	•	Validierungen 
+	•	Validierung (validation) – der Prozess der Beurteilung eines Systems oder einer Komponente während oder am Ende des Entwicklungsprozesses, mit dem Ziel, festzustellen, ob die spezifizierten Anforderungen erfüllt sind.
+	•	Datenvalidierung ist der Prozess, durch den überprüft wird, ob Daten korrekt, vollständig und konform zu vordefinierten Kriterien sind, bevor sie in ein System oder eine Datenbank gelangen. Ziel dieser Validierung ist es, die Korrektheit, Konsistenz und Vertrauenswürdigkeit der erfassten Informationen sicherzustellen.
+	•	Transaktionssicherheit 
+	•	Transaktionssicherheit, auch bekannt als Zahlungssicherheit, bezieht sich auf eine Kategorie von Praktiken, Protokollen, Tools und anderen Sicherheitsmaßnahmen, die während und nach Geschäftstransaktionen eingesetzt werden, um sensible Informationen zu schützen und die sichere Übertragung von Kundendaten zu gewährleisten.
+	•	Mittel für Transaktionssicherheit
+	•	Verschlüsselung
+	•	Tokenisierung
+	•	Tokens statt identifizierbare Daten
+	•	Authentifizierung
+	•	Sichere Zahlungsgateways
+	•	übergeordneter Problemlösungsprozess 
+	•	Problemverständnis und -beschreibung (Define) 
+	•	Problemanalyse und Ursachensuche (Measure) 
+	•	Lösungssuche und -auswahl (Analyse) 
+	•	Lösungsrealisierung und -bewertung (Improve) 
+	•	Überprüfung der Wirksamkeit (Control)  
+	•	Grundkenntnisse in der Stochastik (Berechnung von Wahrscheinlichkeiten bei Qualitätsmängeln)  
+	•	Qualitätsmanagement als selbstreferenziellen Prozess begreifen (die Verfahren zur Verbesserung lassen sich auch auf den Qualitätsmanagementprozess selbst anwenden)  
+	•	Incident Management (Ticketsystem) 
+	•	Standard Operation Procedures (SOP) 
+	•	Service Level Agreement (SLA), Service level 1 -3 
+	•	Lasten-/Pflichtenheft erstellen können 
+	•	Eskalationsstufen
+Testen
+	•	Grundsätzliches Vorgehen beim Testen, z. B. print-Debugging, Test Driven Development (TDD), Unit-Test, E2E-Test 
+	•	Unit-Tests
+	•	Unit-Tests sind sehr einfach und erfolgen nah an der Quelle der Anwendung. Sie dienen zum Testen einzelner Methoden und Funktionen der von der Software verwendeten Klassen, Komponenten oder Module. In der Regel lassen sich Unit-Tests kostengünstig automatisieren und können von einem Continuous-Integration-Server sehr schnell durchgeführt werden.
+	•	Integrationstests
+	•	Mit Integrationstests wird sichergestellt, dass verschiedene von deiner Anwendung genutzte Module oder Services problemlos ineinandergreifen. So kann beispielsweise die Interaktion mit der Datenbank oder das Zusammenspiel von Mikroservices getestet werden. Tests dieser Art sind kostspieliger, weil dafür mehrere Teile der Anwendung funktionsfähig sein müssen.
+	•	Funktionstests
+	•	Funktionstests konzentrieren sich auf die Geschäftsanforderungen einer Anwendung. Sie verifizieren nur die Ausgabe einer Aktion und überprüfen bei der Durchführung dieser Aktion nicht die Zwischenzustände des Systems.
+	•	Integrationstests und Funktionstests sind nicht ganz leicht auseinanderzuhalten, da bei beiden mehrere Komponenten miteinander interagieren müssen. Der Unterschied besteht darin, dass mit einem Integrationstest vielleicht nur überprüft wird, ob Datenbankabfragen generell möglich sind, während bei einem Funktionstest ein bestimmter, von den Produktanforderungen vorgegebener Wert aus der Datenbank abgerufen wird.
+	•	End-to-End-Tests
+	•	Bei End-to-End-Tests wird der Umgang des Benutzers mit der Software in einer vollständigen Anwendungsumgebung repliziert. Auf diese Weise wird das ordnungsgemäße Funktionieren von Benutzerabläufen überprüft. Die Szenarien können ganz einfach sein (z. B. Laden einer Website, Anmeldevorgang) oder auch sehr komplex (z. B. E-Mail-Benachrichtigungen, Onlinezahlungen).
+	•	End-to-End-Tests sind sehr nützlich, aber auch kostspielig und in automatisierter Form unter Umständen schwer zu verwalten. Es empfiehlt sich, nur wenige End-to-End-Tests zu implementieren und stattdessen eher auf weniger aufwendige Testarten (Unit- und Integrationstests) zu setzen, um riskante Änderungen schnell erkennen zu können.
+	•	Akzeptanztests
+	•	Akzeptanztests sind formelle Tests, mit denen überprüft wird, ob ein System die entsprechenden geschäftlichen Anforderungen erfüllt. Während der Tests muss die gesamte Anwendung ausgeführt werden. Der Schwerpunkt liegt auf dem replizierten Benutzerverhalten. Darüber hinaus können die Tests eingesetzt werden, um die Systemleistung zu messen und Änderungen abzulehnen, wenn bestimmte Ziele nicht erfüllt werden.
+	•	Leistungstests
+	•	Mit Leistungstests wird überprüft, wie sich ein System bei bestimmten Auslastungen verhält. Diese Tests sind geeignet, um die Zuverlässigkeit, Geschwindigkeit, Skalierbarkeit und Reaktionsfähigkeit einer Anwendung zu messen. Bei einem Leistungstest können zum Beispiel die Antwortzeiten bei der Ausführung einer hohen Anzahl von Anfragen überprüft werden. Oft wird auch untersucht, wie sich das System bei großen Datenmengen verhält. So kann festgestellt werden, ob eine Anwendung die Leistungsanforderungen erfüllt, wo es zu Engpässen kommt, wie es um die Stabilität bei Belastungsspitzen bestellt ist und vieles mehr. 
+	•	Smoke-Tests
+	•	Smoke-Tests sind einfache Tests zum Überprüfen der grundlegenden Funktionalität einer Anwendung. Sie sollen schnell auszuführen sein und dir zeigen, ob die wichtigsten Features deines Systems wie erwartet funktionieren.
+	•	Smoke-Tests können unmittelbar nach der Erstellung eines neuen Builds nützlich sein, um zu entscheiden, ob du teurere Tests durchführen kannst oder nicht, oder um direkt nach einem Deployment sicherzustellen, dass die Anwendung in der neu bereitgestellten Umgebung ordnungsgemäß ausgeführt wird.
+	•	Regressionstest
+	•	Softwareteststrategie, bei der wiederholt bestehende Testfälle ausgeführt werden, um zu überprüfen, ob Codeänderungen, Funktionserweiterungen oder Fehlerbehebungen keine neuen Fehler einführen oder bestehende Funktionalitäten beeinträchtigen
+	•	Überdeckungstest
+	•	C0: Anweisungsüberdeckung (Statement Coverage)
+	•	Jede Zeile des Codes wird mindestens einmal ausgeführt. 
+	•	Sinnvoll wenn nur Anweisungen aufeinander folgen.
+	•	Keine komplexen Entscheidungen
+	•	C1: Entscheidungsüberdeckung (Branch / Decision Coverage)
+	•	Jede Entscheidung einmal true/false
+	•	Verwenden bei mehreren if/else-Pfaden
+	•	C2: Bedingungsüberdeckung (Condition Coverage)
+	•	Jede einzelne Teilbedingung in einem booleschen Ausdruck (z. B. $x > 5$) wird sowohl mit true als auch false ausgewertet. 
+	•	Jede Bedingung einmal true/false
+	•	Verwenden bei komplizierten Bedingungen 
+	•	C3: Mehrfachbedingungsüberdeckung
+	•	Alle Kombinationen
+	•	auch ultra aufwändig, wenn viele komplexe Bedingungen
+	•	C4: Modifizierte Bedingungs-/Entscheidungsüberdeckung (MC/DC)
+	•	Jede Bedingung muss allein den Ausgang beeinflussen
+	•	Standard in sicherheitskritischen Systemen
+	•	Zweig-/Pfadüberdeckung (Branch Coverage)
+	•	Jeder mögliche Ausführungspfad, der von einem bedingten Befehl (z. B. if-Anweisung) ausgeht, wird mindestens einmal durchlaufen (also true und false). 
+	•	Kaum möglich
+	•	Klassifizierung von Testverfahren 
+	•	Wer testet? 
+	•	Mensch (manuell) vs. Maschine (automatisch) 
+	•	Entwickler vs. Benutzer 
+	•	Was wird getestet? 
+	•	Komponente (Unit-Test/Funktionstest/Klassentest) vs. Integration vs. System (End-to-End) 
+	•	Testpyramide 
+	•	Wie wird getestet? 
+	•	Bottom-Up vs. Top-Down 
+	•	statisch (Kompilierzeit) vs. dynamisch (Laufzeit) 
+	•	ohne Kenntnis des Codes (Blackbox) vs. mit Kenntnis des Codes (Whitebox) 
+	•	explorativ 
+	•	Schreibtischtest/Review 
+	•	Wann wird getestet? 
+	•	Vor vs. nach der Entwicklung 
+	•	Abnahmetest 
+	•	Warum wird getestet? 
+	•	Regressionstest 
+	•	Lasttest/Belastungstest/Performancetest 
+	•	Smoketest 
+	•	Methoden zur Ermittlung von Testfällen 
+	•	Anweisungsüberdeckung vs. Zweig-/Pfadüberdeckung 
+	•	Anweisungsüberdeckung wenn es nur aus Anweisungen besteht
+	•	bei Anweisungen und Verzweigungen mit atomaren Bedingungen Zweigüberdeckung
+	•	mit schleifen → Pfadüberdeckung
+	•	Äquivalenzklassen 
+	•	Grenzwertanalyse/Extremwertetest 
+	•	Modultests erstellen und durchführen 
+	•	Test-Doubles: Stubs vs. Mocks 
+	•	Eigenschaften guter Unit-Tests: korrekt, isoliert, schnell, aussagekräftig, wartbar, einfach durchführbar 
+	•	Testkonzepte erstellen und Tests durchführen sowie Testergebnisse bewerten und dokumentieren 
+	•	Definition der Inhalte eines Tests, z.B. Testkonzepte, Testdaten, Testszenario 
+	•	Beschreiben des Testumfangs, z.B. Grenzbelastung, Stabilität 
+	•	Testdatengeneratoren 
+	•	Daten und Sachverhalte aus Tests multimedial aufbereiten und situationsgerecht unter Nutzung digitaler Werkzeuge und unter Beachtung der betrieblichen Vorgaben präsentieren 
+	•	Testprozess 
+	•	Auswahl des Testverfahrens 
+	•	Kriterien für Testergebnisse definieren 
+	•	Testdaten generieren und auswählen 
+	•	Testprotokoll und Auswertung 
+	•	Auswerten von Testergebnissen, z.B. Soll-Ist-Vergleich 
+	•	Testprotokolle 
+	•	Kontrollverfahren 
+	•	Software-Test, dynamische und statische Testverfahren (z. B. Black Box, White Box, Review, Extremwertetest, Testdaten, Last- und Performancetest)
+	•	Systemtests
+Versionsverwaltung 
+	•	Werkzeuge zur Versionsverwaltung einsetzen 
+	•	Eigenschaften eines Versionsverwaltungssystems beschreiben 
+	•	SVN, CVS, TFS mit Source Safe, Git 
+	•	VCS vs. DVCS 
+	•	Nutzen und Anwenden einschlägiger Systeme, z.B. Git 
+	•	Funktionen, z.B. Commit, Revert, Branch, Merge, Cherry-Pick, Pull/Push, Rebase 
+	•	Übliche Workflows im Team, z.B. Pull/Merge Requests 
+IT-Sicherheit
+	•	Datensicherheit (Authentifizierung, Autorisierung, Verschlüsselung) 
+	•	    Vertraulichkeit
+	•	    Integrität
+	•	    Verfügbarkeit 
+	•	Für jede Anwendung, die verwendeten IT-Systeme und die verarbeiteten Informationen gilt: Betrachtung zu erwartender Schäden, die bei einer Beeinträchtigung von Vertraulichkeit, Integrität oder Verfügbarkeit entstehen könnten! 
+	•	Imageschaden 
+	•	Wirtschaftlicher Schaden 
+	•	Datenverlust 
+	•	Bedrohungsszenarien 
+	•	Datendiebstahl 
+	•	Digitale Erpressung (Ransomware) 
+	•	Identitätsdiebstahl (Phishing) 
+	•	Sicherheitskriterien 
+	•	Richtschnur für Entwickler 
+	•	Objektive Bewertung der Systeme (IT-Grundschutzmodellierung) 
+	•	Anwender/Benutzer bei der Auswahl eines geeigneten IT-Sicherheitsprodukts unterstützen (Security by Design) 
+	•	Kunden und Kundinnen im Hinblick auf Anforderungen an die IT-Sicherheit und an den Datenschutz beraten 
+	•	Private Haushalte 
+	•	Unternehmen (intern, extern) 
+	•	Öffentliche Hand 
+	•	Funktionale Anforderungen 
+	•	Qualitätsanforderungen Anforderungen 
+	•	Rahmenbedingungen 
+	•	Technologisch 
+	•	Organisatorisch 
+	•	Rechtlich 
+	•	Ethisch 
+	•	Risikoanalyse  
+	•	Identity & Access Management (IAM) 
+	•	Unabhängig vom Ort, an dem Menschen arbeiten, benötigen sie Zugriff auf Unternehmensressourcen wie Apps, Dateien und Daten. Früher war es üblich, dass die meisten Beschäftigten vor Ort arbeiteten, wobei Unternehmensressourcen hinter einer Firewall geschützt waren. Sobald Benutzer sich vor Ort angemeldet hatten, erhielten sie Zugriff auf die benötigten Ressourcen.
+	•	Mit dem heutigen Trend zum hybriden Arbeiten benötigen Arbeitskräfte jedoch sicheren Zugriff auf Unternehmensressourcen – ob sie nun vor Ort oder remote arbeiten. Hier kommt Identity & Access Management (IAM) ins Spiel. Die IT-Fachabteilung muss steuern können, worauf Benutzer zugreifen dürfen und worauf nicht. So bleiben vertrauliche Daten und Funktionen denjenigen Personen und Prozessen vorbehalten, die wirklich damit arbeiten müssen.
+	•	Schwachstellenanalyse (z.B. Ende-zu-Ende-Verschlüsselung) 
+	•	Zutritt vs. Zugang vs. Zugriff 
+	•	Zutrittskontrolle, z.B. Alarmanlage, Videoüberwachung, Besucherausweise 
+	•	Zugangskontrolle, z.B. Bildschirmschoner mit Passwortschutz, Biometrische Verfahren, Magnet- oder Chipkarte, Ubikey
+	•	Zugriffskontrolle, z.B. Verschlüsselung von Datenträgern, Löschung von Datenträgern, User/Rollenkonzept 
+	•	Log Management 
+	•	Als Log Management wird der Gesamtprozess bezeichnet, bei dem Protokolldaten, die von Computersystemen, Netzwerken und Softwareanwendungen erzeugt werden, verarbeitet werden. Dieser Prozess umfasst das Sammeln, Aggregieren, Speichern, Analysieren und Entsorgen von Log-Daten.   
+	•	geeignete Gegenmaßnahmen, z.B. USV-Anlagen, Klimageräte, Firewalls 
+	•	Einteilung in die drei Schutzbedarfskategorien „normal“, „hoch“ und „sehr hoch“ (analog IT-Grundschutz des BSI) 
+	•	normal: möglicher finanz. Schaden < 50 000€ | akzeptable Ausfallzeit: 24h+
+	•	hoch: möglicher finanz. Schaden > 50 000€ & < 500 000€ | akzeptable Ausfallzeit: < 24h
+	•	sehr hoch: möglicher finanz. Schaden > 500 000€ | akzeptable Ausfallzeit: < 2h
+	•	IT-Sicherheitsregeln 
+	•	Updates
+	•	Passwörter
+	•	2FA
+	•	Virenschutzprogramm
+	•	Firewall    
+	•	Sicherheitstest einzelner Rechner oder Netzwerke jeglicher Größe, z.B. durch Penetrationstest (auch Social-Engineering-Penetrationstest) gem. Klassifikationsschema des BSI 
+	•	Durchführung in einem fünfstufigen Prozess 
+	•	Vorbereitungsphase 
+	•	Informationsbeschaffung 
+	•	Bewertung der Informationen 
+	•	Versuch des aktiven Eindringens 
+	•	Auswertung der Ergebnisse  
+	•	Begriffe kennen/erläutern 
+	•	Hacker (White Hat, Black Hat), Cracker, Script-Kiddies 
+	•	Spam, Phishing, Sniffing, Spoofing, Man-in-the-Middle 
+	•	SQL-Injection, XSS (Cross-Site-Scripting), CSRF (Cross-Site-Request-Forgery), Session Hijacking, DoS, DDoS 
+	•	https://xkcd.com/327/ 
+	•	Viren, Würmer, Trojaner, Hoax, Keylogger, Botnetze, Spyware, Adware, Ransomware, Scareware 
+	•	Backdoor, Exploit, 0-Day-Exploit, Rootkit 
+	•	Verbreitung von Viren/Würmer/Trojaner erläutern 
+	•	Maßnahmen zur Angriffserkennung, z.B. Monitoring, Honeypot  
+	•	Authentifizierungs- und Autorisierungsverfahren 
+	•	Delegierte Authentifizierung 
+	•	OAuth2 
+	•	Single-Sign-On 
+Datenschutz 
+	•	Datenschutzgesetze – national und auf EU-Ebene, z.B. Datenschutzgrundverordnung (DSGVO), BDSG 
+	•	Definition von personenbezogenen Daten 
+	•	Strafen bis 20 Mio € oder 4% 
+	•	Grundsätze des Datenschutzes (Art. 5) 
+	•	Rechtmäßigkeit/Gesetzmässigkeit (Erfordernis der gesetzlichen Grundlage) 
+	•	Transparenz gegenüber den betroffenen Personen 
+	•	Zweckbindung 
+	•	Datenminimierung/Verhältnismässigkeit (Datensparsamkeit und Datenvermeidung) 
+	•	Richtigkeit 
+	•	Speicherbegrenzung 
+	•	Integrität und Vertraulichkeit 
+	•	Rechenschaftspflicht 
+	•	Informationssicherheit 
+	•	Betroffenenrechte  
+	•	Recht auf Auskunft 
+	•	Recht auf Berichtigung 
+	•	Recht auf Löschung 
+	•	Recht auf Einschränkung der Bearbeitung 
+	•	Recht auf Widerspruch 
+	•	Recht auf Datenübertragbarkeit 
+	•	Persönlichkeitsrechte 
+	•	Recht auf informationelle Selbstbestimmung 
+	•	Recht am eigenen Bild 
+	•	Recht am geschriebenen/gesprochenen Wort 
+	•	Recht auf Schutz vor Imitation der Persönlichkeit 
+	•	Recht auf Schutz der Intim-, Privat- und Geheimsphäre 
+	•	Archivierung (rechtliche Vorgaben, Unterschied zu Backup, technologische Anforderungen)  
+Netzwerktechnik 
+	•	Netzwerkkonzepte für unterschiedliche Anwendungsgebiete unterscheiden  
+	•	Verfügbarkeit und Ausfallwahrscheinlichkeiten analysieren und Lösungsvorschläge unterbreiten 
+	•	Verfügbarkeit = (Betriebszeit / (Betriebszeit + Ausfallzeit))
+	•	Mean Time to Detect (MTTD): Die durchschnittliche Zeit, die benötigt wird, um einen Vorfall zu erkennen.
+	•	MTTD: Sum of all Detection Times / Total Number of Incidents
+	•	Mean Time to Respond/Resolve (MTTR): Die durchschnittliche Zeit, die benötigt wird, um einen Vorfall zu beheben und den Service wiederherzustellen.
+	•	MTTR = Total Incident Response Time / Total Number of Incidents
+	•	Mean Time Between Failures (MTBF): Die durchschnittliche Zeit zwischen zwei aufeinanderfolgenden Ausfällen eines Systems.
+	•	MTBF = Total Operating Time / Number of Failures      
+	•	Adressierung 
+	•	IPv4/IPv6, MAC, ARP 
+	•	Routing, Switching 
+	•	DNS, DHCP 
+	•	TCP/UDP 
+	•	Transmission Control Protocol
+	•	User Datagram Protocol
+	•	HTTPS, TLS/SSL, IPsec 
+	•	Hash, Signatur, Zertifikat, Certificate Authority 
+	•	SMB, NFS 
+	•	Server Message Block
+	•	Network File System
+	•	Speicherprotokolle
+	•	Ethernet, FibreChannel 
+	•	Datenübertragungsraten 
+	•	Verschlüsselung (pre-shared key) 
+	•	LAN/WAN/MAN/GAN 
+	•	Local Area Network
+	•	Wide Area Network
+	•	Metropolitan Area Network
+	•	Global Area Network
+	•	Strukturierte Verkabelung 
+	•	primäre/sekundäre/tertiäre Verkabelung 
+	•	Die primäre, sekundäre und tertiäre Verkabelung beschreibt eine hierarchische Struktur von Netzwerkkabeln, die von einem zentralen Punkt zu den Endgeräten führt. 
+	•	Primärverkabelung (Geländeverkabelung): Verbindet verschiedene Gebäude auf einem Gelände miteinander.
+	•	Sekundärverkabelung (Gebäudeverkabelung): Verbindet die Etagen innerhalb eines Gebäudes.
+	•	Tertiärverkabelung (Etagenverkabelung): Verbindet die Etagenverteiler mit den Anschlussdosen in den Räumen.
+	•	Kabeltypen 
+	•	Simplex, Halb-/Vollduplex 
+	•	Simplex ist eine einseitige Übertragung (z. B. Radio), Halbduplex ermöglicht eine bidirektionale Übertragung, aber nicht gleichzeitig (z. B. Walkie-Talkie), und Vollduplex ermöglicht eine gleichzeitige Übertragung in beide Richtungen (z. B. Telefonat). 
+	•	Simplex (einfachgerichtet)
+	•	Beschreibung: Die Datenübertragung erfolgt nur in eine Richtung. Ein Gerät sendet, das andere empfängt; die Richtung kann nicht gewechselt werden.
+	•	Beispiele: Radio- und Fernsehsendungen, bei denen der Sender nur sendet und der Empfänger nur empfangen kann. 
+	•	Halbduplex (wechselseitig)
+	•	Beschreibung: Daten können in beide Richtungen fließen, aber nicht gleichzeitig. Zwischen Senden und Empfangen muss gewechselt werden.
+	•	Beispiele: Walkie-Talkies, bei denen man durch Drücken einer Taste spricht und die andere Person zuhören muss, oder eine einfache Gegensprechanlage, die nur eine Richtung gleichzeitig zulässt. 
+	•	Vollduplex (gleichzeitig)
+	•	Beschreibung: Die Übertragung erfolgt in beide Richtungen gleichzeitig. Sender und Empfänger können gleichzeitig senden und empfangen.
+	•	Beispiele: Ein Telefongespräch, bei dem beide Personen gleichzeitig sprechen können, oder eine Ethernet-Verbindung. 
+	•	EM-Verträglichkeit 
+	•	Fähigkeit eines Geräts, in seiner elektromagnetischen Umgebung störungsfrei zu funktionieren, ohne andere Geräte zu stören und selbst von Störungen unbeeinflusst zu bleiben
+	•	Switch, Bridge, Router 
+	•	VLAN 
+	•	Drahtlos: PAN/WLAN/Mesh, Bluetooth 
+	•	Sicherheitskonzepte und -risiken: WEP, WPA 
+	•	Wired Equivalent Privacy
+	•	Wireless Protected Access
+	•	Netzwerktopologien 
+	•	Netzwerkplan 
+	•	VPN 
+	•	Funktionsweise und Vorteile von VPN beschreiben 
+	•	Protokolle/Ports, Verschlüsselungsverfahren 
+	•	L2TP, PPTP, IPSec 
+	•	VPN-Modelle 
+	•	Tunneling  
+	•	Serverarten: Mailserver, Webserver, Groupware, Datenbanken, Proxy 
+	•	ANR 
+	•	Automatic Network Routing 
+	•	SNMP, S.M.A.R.T. u.Ä. 
+	•	Simple Network Management Protocol
+	•	Monitoring von Systemen 
+	•	Festlegen der Monitoringdaten 
+	•	Festlegen von Schwellwerten 
+	•	Cyber-physische Systeme beschreiben und erweitern können 
+	•	CPS-Software 
+	•	Auswahl von geeigneten Sensoren/Aktoren 
+	•	Nutzung von Bibliotheken 
+	•	Abfragerhythmus planen 
+	•	Kenntnis des Zugriffs auf Sensoren und Aktoren 
+Speicherlösungen 
+	•	Zugangskontrollen (z.B. Gebäude, Serverraum, Schrank)   
+	•	SaaS, IaaS, PaaS 
+	•	Software as a Service
+	•	Infrastructure as a Service
+	•	Platform as a Service
+	•	Cloud Computing 
+	•	Cloud vs. On Premises 
+	•	Hybrid
+	•	Serverless (Function as a Service, Faas) 
+	•	Data Lake 
+	•	zentrales Repository, das riesige Mengen an Rohdaten in ihrem ursprünglichen Format speichert, egal ob strukturiert, semi-strukturiert oder unstrukturiert
+	•	RAID 
+	•	RAID 0, 1, 5, 6, 01, 10, JBOD erklären 
+	•	0 - Striping
+	•	Bei RAID 0 fehlt die Redundanz, daher gehört es streng genommen nicht zu den RAID-Systemen, es ist nur ein schnelles „Array of Independent Disks“. 
+	•	1 - Mirroring
+	•	RAID 1 ist der Verbund von mindestens zwei Festplatten. Ein RAID 1 speichert auf allen Festplatten die gleichen Daten (Spiegelung) und bietet somit volle Redundanz. Die Kapazität des Arrays ist hierbei höchstens so groß wie die kleinste beteiligte Festplatte.
+	•	Ein Vorteil von RAID 1 gegenüber allen anderen RAID-Verfahren liegt in seiner Einfachheit. Beide Platten sind identisch beschrieben und enthalten alle Daten eines Systems, somit kann (die passende Hardware vorausgesetzt) normalerweise auch jede Platte einzeln in zwei unabhängigen Rechnern (intern oder im externen Laufwerk) unmittelbar betrieben und genutzt werden. Aufwändige Rebuilds sind nur dann notwendig, wenn die Platten wieder redundant betrieben werden sollen. Im Störfall wie auch bei Migrationen beziehungsweise Upgrades bedeutet das einen erheblichen Vorteil. 
+	•	1 kann ausfallen
+	•	5 – Block-Level-Striping
+	•	RAID 5 implementiert Striping mit auf Block-Level-verteilten Paritätsinformationen. Von allen Datenblöcken einer Gruppe enthält ein Datenblock die Paritätsdaten, während die anderen Datenblöcke Nutzdaten enthalten. Die Nutzdaten von RAID-5-Gruppen werden wie bei RAID 0 auf alle Festplatten verteilt.
+	•	Mindestens 3, 1 kann ausfallen
+	•	6
+	•	RAID 6 funktioniert ab einem Server mit 4 Festplatten. Angenommen ihr habt einen Server mit 4 x 4-TB-Festplatten mit RAID 6, dann könnt ihr zwei Festplatten als Speicher nutzen (8 TB), die anderen beiden werden zur Ausfallsicherheit verwendet. Es können also maximal zwei Festplatten ausfallen und die Daten sind immer noch vorhanden (wiederherstellbar).
+	•	10
+	•	RAID 10 benötigt mindestens 4 Festplatten. RAID 10 ist ein RAID 0, der aus mehreren RAID 1 besteht. Wie bei RAID 1 habt ihr hier maximal nur die Hälfte der Gesamtspeicherkapazität zur Verfügung, egal wieviele weitere Festplatten ihr nutzt. Allerdings können dadurch dann auch mehrere ausfallen.
+	•	JBOD
+	•	Just a bunch of Disks 
+Softwareentwicklung 
+	•	Arten von Software unterscheiden (Individual-/Branchensoftware) 
+	•	ERP, CRM, CAD, CMS, DMS, PPS, ECM, SCM (zwei Bedeutungen) 
+	•	Enterprise-Resource-Planning
+	•	Customer-Relation-Management
+	•	Computer-Aided-Design
+	•	Content-Management-System
+	•	Dokumenten-Management-System
+	•	Produktionsplanungs- und Steuerungssystem
+	•	Enterprise-Content-Management
+	•	Supply-Chain-Management   
+	•	 
+	•	Allgemeines Fehlerhandling in Programmen 
+	•	Exceptions, Return/Exit Codes 
+	•	Unterschied syntaktische/semantische Fehler 
+	•	syntaktisch: Fehler der gegen die Regeln der Sprache verstößt (fehlendes Semikolon, falsches Schlüsselwort)
+	•	semantisch: syntax ist richtig, aber falsche Logik, oder unerwünschte Effekte 
+	•	Rechnerarchitektur: CPU, BUS, Speicher und deren Adressierung 
+	•	Lizenzen unterscheiden 
+	•	Open Source, proprietär  
+	•	Apps 
+	•	nativ vs. hybrid vs. cross-platform vs. responsive Web 
+	•	Progressive Web Apps 
+Algorithmen
+	•	Algorithmus: präzise (eigentlich von IT-Systemen unabhängige) Formulierung einer Verarbeitungsvorschrift  
+	•	Abbildung der Kontrollstrukturen mittels Pseudocode oder Aktivitätsdiagramm als didaktisches Hilfsmittel 
+	•	grundlegende Algorithmen kennen, eigene Algorithmen auch programmiersprachenfrei formulieren und zur Lösung von Problemen, z.B. in einem IT-System bzw. einer Softwareanwendung einsetzen 
+	•	Entwickeln und Darstellen von Programmlogiken unabhängig von der Programmiersprache, z.B. mithilfe von Strukturdiagrammen und Verhaltensdiagrammen aus der UML 
+	•	Kontrollstrukturen 
+	•	allgemeine Programmstrukturen identifizieren/erläutern (Verzweigungen, Schleifen etc.) 
+	•	Merkmale/Unterschiede von Kontrollstrukturen (Schleifen, Fallunterscheidungen) 
+	•	grundlegende Kontrollstrukturen in allen Diagrammformen darstellen können: Pseudocode, UML 
+	•	Zustandsübergänge eines Zustandsautomaten abbilden 
+	•	Zustandsdiagramm
+	•	Rekursion: Funktionsweise, Vor-/Nachteile 
+	•	Rekursion ist ein grundlegendes Konzept in der Informatik und der Mathematik, bei dem eine Funktion sich selbst aufruft, um ein Problem zu lösen. Dieses Verfahren kann helfen, komplexe Probleme in kleinere, überschaubare Teilprobleme zu zerlegen, die leichter zu analysieren oder zu lösen sind. In vielen Programmiersprachen und Algorithmen ist die Rekursion eine essentielle Methode, um Datenstrukturen wie Bäume oder Graphen zu traversieren.
+	•	Vorteile:
+	•	Rekursive Lösungen sind oft kürzer und eleganter als iterative Lösungen. Sie ermöglichen eine klare und logische Struktur für komplexe Probleme. Rekursive Lösungen sind besonders nützlich bei der Verarbeitung von Datenstrukturen wie Bäumen oder Graphen.
+	•	Nachteile:
+	•	Rekursion kann zu einer hohen Speicherbelegung führen, da für jeden Funktionsaufruf ein neuer Stack-Rahmen erstellt wird. Eine falsche Implementierung kann zu Endlosschleifen oder einem Überlauf des Aufrufstacks (Stack Overflow) führen.
+	•	Basis-Algorithmen kennen 
+	•	Lineare Suche
+	•	Array von Anfang bis Ende durchsuchen, bis das gesucht Element gefunden wurde
+	•	für i bis länge des arrays mit schritt + 1
+	•	wenn array[i] = suche 
+	•	gebe i zurück
+	•	ENDE WENN
+	•	ENDE FÜR
+	•	Binäre Suche
+	•	 funktioniert nur bei sortierten Arrays
+	•	Start: Die Suche beginnt mit dem gesamten sortierten Bereich und den Zeigern auf das erste und letzte Element.
+	•	Mittleres Element finden: Der Algorithmus berechnet den Index des mittleren Elements im aktuellen Suchbereich.
+	•	Vergleich:
+	•	Wenn das mittlere Element das gesuchte Element ist, ist die Suche beendet.
+	•	Wenn das gesuchte Element größer ist, wird der Suchbereich auf die rechte Hälfte beschränkt.
+	•	Wenn das gesuchte Element kleiner ist, wird der Suchbereich auf die linke Hälfte beschränkt.
+	•	Wiederholung: Dieser Vergleichs- und Einschränkungsprozess wird solange wiederholt, bis der Wert gefunden wurde oder der Suchbereich auf Null reduziert ist und der Wert somit nicht vorhanden ist.
+	•	Links = 0
+	•	rechts = länge des arrays – 1
+	•	WÄHREND links <= rechts
+	•	mitte = links + abrunden ((rechts – links) / 2)
+	•	WENN array[mitte] == suche
+	•	return mitte
+	•	ENDE WENN
+	•	WENN array[mitte] > suche
+	•	rechts = mitte – 1
+	•	ENDE WENN
+	•	WENN array[mitte] < suche
+	•	links = mitte + 1
+	•	ENDE WENN
+	•	ENDE WÄHREND
+	•	WENN nichts gefunden return links
+	•	Algorithmen implementieren/durchspielen 
+	•	Mittelwert 
+	•	akkumulator = 0
+	•	für i bis länge des arrays mit schritt +1
+	•	akkumulator += array[i]
+	•	ende für
+	•	akkumulator / länge des arrays
+	•	doppelte Einträge in einem Array finden/löschen 
+	•	gesehen = leeres array/set
+	•	ergebnis = leeres array
+	•	für jedes element in array
+	•	wenn element nicht in gesehen
+	•	füge element zu gesehen hinzu
+	•	füge element zu ergebnis hinzu
+	•	end wenn
+	•	end für
+	•	gib ergebnis zurück
+	•	Dateibäume rekursiv kopieren 
+	•	zielpfad = „text“
+	•	für jeden eintrag in listeDateienUndOrdner(quellPfad):
+	•	quellElement = quellPfad + „/“ + eintrag
+	•	zielElement = zielPfad + „/“ + eintrag
+	•	wenn quellElement eine Datei ist
+	•	kopiere quellElement zu zielElement
+	•	ende wenn
+	•	wenn quellElement Ordner ist
+	•	kopiere Ordner nach zielElement
+	•	ende wenn
+	•	ende für
+	•	(Zinses-)Zinsberechnung 
+	•	zins = x
+	•	durchläufe = 100
+	•	einzahlung = 100
+	•	endbetrag = 0
+	•	solange durchläufe > 0
+	•	endbetrag = (endbetrag+einzahlung) * zins
+	•	durchläufe – 1
+	•	ende solange
+	•	Planen eines regelmäßigen Backups 
+	•	wenn tag = backup tag
+	•	backup durchführen
+	•	ende wenn
+	•	Ablauf einer Benutzerauthentifizierung an einer Website 
+	•	login anfrage
+	•	überprüfen der inputs
+	•	wenn nicht ok abbruch
+	•	sonst 2FA durchführen
+	•	wenn nicht erfolgreich abbruch
+	•	erfolg
+	•	Abbuchen von einem Konto 
+	•	anfrage kommt
+	•	abbucher validieren
+	•	zielkonto validieren
+	•	wenn nicht ok abbruch
+	•	sonst abbuchen
+	•	Insertion-Sort
+	•	Für i = 1 bis LängeArray – 1 mit Schritt + 1
+	•	element = array[i]
+	•	j= i – 1
+	•	solange j >= 0 und array[j] > element
+	•	array[j+1] = array[j]
+	•	j = j – 1
+	•	ende solange
+	•	zahlen[j + 1] = element
+	•	ende für
+	•	Bubble-Sort
+	•	Es findet immer ein paarweiser Vergleich statt.
+	•	Ist die Rangordnung innerhalb einer dieser Blasen (engl. „bubble“) falsch, wird getauscht.
+	•	Somit wandert die aktuell größte unsortierte Zahl ständig weiter nach rechts.
+	•	Wiederholt man das so oft, wie es insgesamt Zahlen gibt, ist das Array sortiert.
+	•	N = länge des arrays
+	•	FÜR i =  n – 1 bis 0 mit schritt - 1
+	•	FÜR j = 1 bis i mit schritt + 1
+	•	wenn array[j-1] > array[j]
+	•	tauschen
+	•	ENDE WENN
+	•	ENDE FÜR
+	•	ENDE FÜR
+	•	Selection-Sort
+	•	n = Länge des Arrays
+	•	für i von 0 bis n-2 mit schritt + 1
+	•	minIndex = i
+	•	für j von i + 1 bis n – 1
+	•	wenn array[j] < array[minIndex]
+	•	minIndex = j
+	•	ENDE WENN
+	•	ENDE FÜR
+	•	wenn minIndex != i
+	•	tausche array[i] mit array[minIndex]
+	•	ENDE WENN
+	•	ENDE FÜR
+	•	RÜCKGABE array
+	•	Shaker-Sort
+	•	start = 0
+	•	ende = länge des arrays – 1
+	•	getauscht = true
+	•	SOLANGE getauscht = true mache
+	•	getauscht = false
+	•	für i von start bis ende mit schritt + 1
+	•	wenn array[i] > array[i + 1]
+	•	tausche array[i] mit array[i + 1]
+	•	getauscht = true
+	•	ENDE WENN
+	•	ENDE FÜR
+	•	wenn nichts getauscht wurde 
+	•	break
+	•	ENDE WENN
+	•	ende = ende – 1
+	•	getauscht = false
+	•	für i von ende – 1 bis start mit schritt – 1
+	•	wenn array[i] < array[i – 1]
+	•	tausche array[i] mit array[i – 1]
+	•	getauscht = true
+	•	ENDE WENN
+	•	ENDE FÜR
+	•	start = start + 1
+	•	ENDE SOLANGE
+	•	Reguläre Ausdrücke zur Textanalyse erstellen 
+	•	NIEMALS
+Schnittstellen, APIs, Datenaustausch 
+	•	Datenaustauschformate: CSV, XML, JSON 
+	•	XML 
+	•	vs. SGML, HTML, CSV, JSON, YAML etc. 
+	•	Wohlgeformtheit
+	•	Ein Dokument, das die Basis-Syntaxregeln von XML befolgt:
+	•	Richtige Tags: Jedes Element hat ein öffnendes und ein schließendes Tag (oder wird als selbstschließendes Element formatiert, z. B. <element/>).
+	•	Korrekt geschachtelt: Elemente müssen korrekt verschachtelt sein und dürfen sich nicht überlappen.
+	•	Ein Wurzelelement: Jede XML-Datei muss genau ein Wurzelelement enthalten, das alle anderen Elemente umschließt.
+	•	Attribute in Anführungszeichen: Alle Attributwerte müssen in Anführungszeichen gesetzt werden.
+	•	Syntaxregeln: Einhaltung aller anderen XML-Syntaxregeln. 
+	•	Validität
+	•	Ein Dokument, das wohlgeformt ist UND die zusätzlichen Regeln einer Grammatik (DTD oder Schema) einhält: 
+	•	Referenz zur Grammatik: Das Dokument muss auf eine DTD oder ein XSD verweisen.
+	•	Einhaltung der Grammatikregeln: Die Struktur des Dokuments muss den in der DTD oder dem Schema definierten Regeln entsprechen. Das umfasst:
+	•	Zulässige Elemente und Attribute.
+	•	Erlaubte Reihenfolge der Elemente.
+	•	Anzahl der Elemente.
+	•	Typen von Daten (z. B. Strings, Zahlen). 
+	•	Parser, Serialisierer 
+	•	SAX, DOM 
+	•	DTD, Schema, RelaxNG, Schematron 
+	•	XSLT, XSL-FO 
+	•	JSON 
+	•	Syntax, Vor-/Nachteile, Einsatzgebiete 
+	•	REST 
+	•	Adressierbarkeit, Zustandslosigkeit, einheitliche Schnittstelle (uniform interface), Ressource vs. Repräsentation 
+	•	Hypermedia as the Engine of Application State (HATEOAS) 
+	•	Code on Demand 
+	•	Webservices/SOA 
+	•	SOAP, WSDL 
+	•	Simple Object Access Protocol
+Objektorientierung 
+	•	Prinzipien der OOP 
+	•	Begriffe der OOP erläutern: 
+	•	Attribut
+	•	Variablen, die zu einem Objekt oder einer Klasse gehören und dessen Eigenschaften oder Merkmale beschreiben
+	•	Nachricht/Methodenaufruf
+	•	eine Anfrage eines Objekts an ein anderes, um eine bestimmte Aktion auszuführen oder eine Dienstleistung zu erbringen
+	•	Persistenz
+	•	Infos in Datenbanken hinterlegen
+	•	Schnittstelle/API/Interface
+	•	definiert in der objektorientierten Programmierung, welche Methoden in den unterschiedlichen Klassen u. Ä. vorhanden sind oder vorhanden sein müssen. Sie legt die Namen und die Signatur der Methoden, also die Parametertypen und den Rückgabetyp, fest
+	•	Kapselung
+	•	das Verbergen von Daten oder Informationen vor dem Zugriff von außen. Der direkte Zugriff auf die interne Datenstruktur wird unterbunden und erfolgt stattdessen über definierte Schnittstellen
+	•	Polymorphie
+	•	ermöglicht, dass Objekte unterschiedlichen Typs über dieselbe Schnittstelle angesprochen werden können
+	•	Methodenüberladung, Methodenüberschreibung
+	•	Vererbung 
+	•	ermöglicht, Eigenschaften (Attribute und Methoden) von einer bestehenden Klasse (Eltern- oder Basisklasse) zu erben
+	•	Bestandteile von Klassen 
+	•	Unterschied Klasse/Objekt 
+	•	Eine Klasse ist eine abstrakte Vorlage oder ein Bauplan für Objekte, die definiert, welche Eigenschaften (Attribute) und Verhaltensweisen (Methoden) Objekte dieses Typs haben werden. Ein Objekt ist eine konkrete, eigenständige Instanz einer Klasse, das nach diesem Bauplan erstellt wurde und dem eine eindeutige Identität und spezifische Werte für die Attribute zugewiesen wurden
+	•	Unterschied Klasse/Interface 
+	•	eine Klasse eine Blaupause für Objekte ist, die sowohl Daten (Attribute) als auch Verhalten (Methoden) enthält, während ein Interface einen Vertrag darstellt, der nur festlegt, welche Methoden eine Klasse implementieren muss, aber keine Implementierung selbst bietet
+	•	Erklärung Klassenbibliothek vs. Framework 
+	•	Eine Bibliothek ist eine Sammlung vorgefertigter Funktionen, Klassen oder Module, die Entwickler zur Erfüllung spezifischer Aufgaben in ihren Projekten nutzen können. Im Gegensatz zu einem Framework zwingt eine Bibliothek keine bestimmte Struktur oder keinen bestimmten Fluss für die Anwendungsentwicklung auf
+	•	Klassenbeziehungen: 
+	•	Assoziation
+	•	Bestehen zwischen Objekten von Klassen Beziehungen, dann spricht man von Assoziationen. Dabei kennen sich die Objekte, existieren aber unabhängig voneinander. Ein Objekt, das ein anderes Objekt kennt, verwaltet dieses nicht.
+	•	Aggregation
+	•	Die Aggregation ist eine Sonderform der Assoziation zwischen zwei Klassen. Sie liegt dann vor, wenn zwischen den Objekten der beteiligten Klassen eine Beziehung vorliegt, die sich als „ist Teil von“, „besteht aus“ oder einfach „hat“ beschreiben lässt.
+	•	Komposition
+	•	Die Komposition ist eine Sonderform der Aggregation. Sie drückt aus, dass die Teile von der Existenz des Ganzen abhängig sind.
+	•	Spezialisierung
+	•	Die Spezialisierung bezeichnet in der objektorientierten Programmierung die Erstellung von Unterklassen, welche Merkmale und Funktionalitäten der Oberklasse besitzen, diese aber zusätzlich um speziellere Klassenattribute und Methoden erweitern. Sie ist eine Richtung der Vererbung und das Gegenteil zur Generalisierung.
+	•	Generalisierung
+	•	Die Generalisierung bezeichnet in der objektorientierten Programmierung den Abstraktionsprozess von einzelnen Klassen hin zu einer Oberklasse (auch Mutterklasse oder Elternklasse), welche gemeinsame Merkmale und Funktionalitäten der Unterklassen (auch Tochterklassen oder Kindklassen) enthält.
+	•	Generische Klassen (z.B. List) 
+	•	Vorteile generischer Container (Templates in C++) gegenüber Arrays 
+	•	"Normal arrays" are static objects: Their size is fixed and determined at compile time. Dynamic containers can have an arbitrary amount of elements which can change at runtime.
+	•	Generische Klassen sind Klassen, die nicht für einen bestimmten, sondern für einen oder mehrere parametrisierbare Typen definiert werden 
+	•	Vorteile
+	•	Typsicherheit: Generische Klassen verhindern Fehler, die bei der Verwendung von unspezifischen Typen (z. B. Object) und der anschließenden Umwandlung (Casting) entstehen könnten, da der Typ zur Kompilierzeit überprüft wird.
+	•	Code-Wiederverwendung: Einmal geschriebener generischer Code kann mit verschiedenen Datentypen wiederverwendet werden, ohne ihn für jeden Typ duplizieren zu müssen.
+	•	Leistung: Generics können die Leistung verbessern, da sie den Bedarf an explizitem Casting und damit verbundene Laufzeitkosten reduzieren.
+	•	Verbesserte Lesbarkeit: Der Code wird klarer, da der Datentyp explizit im Kontext der generischen Klasse festgelegt wird.
+	•	Unterschied statische/nicht-statische Methoden und Attribute 
+	•	Static variables are shared among all instances of a class. Non static variables are specific to that instance of a class. Static variable is like a global variable and is available to all methods. Non static variable is like a local variable and they can be accessed through only instance of a class.
+	•	Datenstrukturen 
+	•	Queue, Baum, Stack, Heap, Array, Graph 
+	•	Stack
+	•	Ein Stack verhält sich wie ein Buchstapel.
+	•	Man kann oben - aber nur oben - immer weiter drauf legen.
+	•	Man kann von oben - aber nur von oben - wieder etwas weg
+	•	nehmen.
+	•	Man kann stets nur genau ein Buch drauf legen oder weg
+	•	nehmen.
+	•	Wichtige Anmerkung
+	•	LIFO-Prinzip: Speicherung mit Zugriffsm¨oglichkeit nur auf dem zuletzt gespeicherten Objekt. (LIFO = last in, first out)
+	•	Queue
+	•	Eine Queue verhält sich wie eine (Warte-)Schlange in einem Supermarkt:
+	•	Man kann sich hinten - aber nur hinten – anstellen (hinzufügen).
+	•	Man kann vorne - aber nur vorne - Kunden bedienen (wegnehmen).
+	•	Wie beim Stack: Stets nur ein Element hinzufügen/wegnehmen.
+	•	Wichtige Anmerkung
+	•	FIFO-Prinzip: Speicherung mit Zugriffsm¨oglichkeit nur auf dem zuerst gespeicherten Objekt. (FIFO = first in, first out)
+	•	Baum
+	•	Begriffe: Knoten, Vorgänger, Nachfolger, Wurzel, innerer Knoten, Blatt Höhe, Tiefe, Ebene (≈ Tiefe)
+	•	Speziell: Binärbaum
+	•	Anzahl Knoten auf Ebene i: 2i
+	•	Anzahl Blätter: 2h (h ist die Höhe)
+	•	Anzahl Knoten: |T | = ∑h
+	•	i=0 = 2i = 2h+1 − 1
+	•	Zur Speicherung von |T | Knoten braucht man einen Binärbaum der Höhe log2(|T | + 1) − 1 ∈ Θ(log(|T |)), soll heißen ca. log2(|T |) viele
+	•	Graphen
+	•	Ein Graph ist ein Tupel G = (V , E ) bestehend aus einer Menge V (auch V (G )) von Knoten oder Ecken und einer Menge E (auch E (G )) von Kanten.
+	•	Ist G ein ungerichteter Graph, so ist
+	•	E ⊆ {{v1, v2} | v1, v2 ∈ V , v1 6 = v2},
+	•	ist G ein gerichteter Graph, so ist
+	•	E ⊆ V 2.
+	•	Ist |E | viel kleiner als |V |2, so nennt man den Graphen dünn besetzt. Ist |E | nahe an |V |2, so spricht man von dicht besetzten Graphen.
+	•	Heap
+	•	Ein Heap (englisch wörtlich: Haufen oder Halde) in der Informatik ist eine zumeist auf Bäumen basierende abstrakte Datenstruktur. In einem Heap können Objekte oder Elemente abgelegt und aus diesem wieder entnommen werden. Sie dienen damit der Speicherung von Mengen. Den Elementen ist dabei ein Schlüssel zugeordnet, der die Priorität der Elemente festlegt. Häufig werden auch die Elemente selbst als Schlüssel verwendet. 
+	•	Eine Array-Datenstruktur ist wie eine Datenstruktur mit mehreren Vorkommen, außer dass der Index explizit angegeben wird
+	•	funktionale Aspekte in modernen Sprachen: Lambda-Ausdrücke, Functional Interfaces, Map/Filter/Reduce, deklarativ vs. imperativ 
+	•	Lambda-Ausdrücke
+	•	Eine anonyme Funktion (auch Funktionsliteral, Lambda-Funktion oder Lambda-Ausdruck) ist eine Funktionsdefinition, die nicht an einen Bezeichner gebunden ist. Anonyme Funktionen werden häufig als Argumente an Funktionen höherer Ordnung übergeben oder zum Erstellen des Ergebnisses einer Funktion höherer Ordnung verwendet, die eine Funktion zurückgeben muss. Wenn eine Funktion nur an einer Stelle verwendet wird und einen begrenzten Umfang hat, kann eine anonyme Funktion syntaktisch einfacher sein als die Verwendung einer benannten Funktion.
+	•	Functional Interfaces
+	•	An interface with only one abstract member function is called a functional interface, or a Single Abstract Method (SAM) interface. The functional interface can have several non-abstract member functions but only one abstract member function
+	•	Map/Filter/Reduce
+	•	Map, reduce, and filter are all array methods. Each one will iterate over an array and perform a transformation or computation. Each will return a new array based on the result of the function
+	•	Map
+	•	The map() method is used for creating a new array from an existing one, applying a function to each one of the elements of the first array.
+	•	Filter
+	•	The filter() method takes each element in an array and it applies a conditional statement against it. If this conditional returns true, the element gets pushed to the output array. If the condition returns false, the element does not get pushed to the output array.
+	•	Reduce
+	•	The reduce() method reduces an array of values down to just one value. To get the output value, it runs a reducer function on each element of the array.
+	•	Reactive Programming 
+	•	Reactive programming is an asynchronous programming paradigm concerned with data streams and the propagation of change. This means that it becomes possible to express static (e.g. arrays) or dynamic (e.g. event emitters) data streams with ease via the employed programming language(s).
+Programmiersprachen 
+	•	Programmierparadigmen: unstrukturiert, strukturiert, prozedural, funktional, objektorientiert, logisch 
+	•	Programmiersprachen vergleichen    
+	•	Typisierung: statisch/dynamisch, stark/schwach 
+	•	Syntax: z.B. C-ähnlich 
+	•	General Purpose vs. Domain Specific 
+	•	Abstraktionsniveau: 1GL, 2GL, 3GL, 4GL 
+	•	1GL: Maschinensprache, Nullen und Einsen
+	•	2GL: Assembler, etwas abstrakter, aber immer noch kryptisch, an bestimmte Prozessoren gebunden
+	•	3GL: moderne Hochsprachen wie C, Java usw.
+	•	4GL: Sprachen mit Fokus auf einen bestimmten Anwendungsbereich, Ziel: wenig Code für häufig benötigte Funktionen, Beispiele: Natural, ABAP
+	•	imperativ vs. deklarativ 
+	•	Portabilität (z.B. hardwarenah vs. virtuelle Maschine) 
+	•	Skriptsprache 
+	•	Performance/Speicherbedarf (Unterschiede bei der Programmierung/Ausführungsgeschwindigkeit in C, Java und JavaScript) 
+	•	Einsatzzweck(e) 
+	•	gängige Programmiersprachen kennen: PHP, Perl, Java, C, C++, C#, JavaScript, Delphi, Visual Basic, VBA, Ruby, Python, Cobol, F#, Lisp, Prolog, Assembler 
+	•	synchrone vs. asynchrone Programmierung 
+	•	Herausforderungen paralleler Programmierung  
+	•	Eigenschaften funktionaler Programmierung 
+	•	Functions as „First Class Citizens“ 
+	•	Pure Functions 
+	•	Higher Order Functions 
+	•	Immutability 
+	•	Fokus auf Rekursion (Tail Call Optimization) 
+	•	Pattern Matching  
+UML 
+	•	wichtige UML-Diagramme kennen und Einsatzgebiete erläutern 
+	•	Klassendiagramm 
+	•	Strukturdiagramm der Unified Modeling Language (UML) zur grafischen Darstellung (Modellierung) von Klassen, Schnittstellen sowie deren Beziehungen. Eine Klasse ist in der Objektorientierung ein abstrakter Oberbegriff für die Beschreibung der gemeinsamen Struktur und des gemeinsamen Verhaltens von Objekten (Klassifizierung). Sie dient dazu, Objekte zu abstrahieren. Im Zusammenspiel mit anderen Klassen ermöglicht sie die Modellierung eines abgegrenzten Systems in der objektorientierten Analyse und im Entwurf. 
+
+
+
+
+	•	Aktivitätsdiagramm 
+	•	Ein Aktivitätsdiagramm (englisch activity diagram) ist ein Verhaltensdiagramm der Unified Modeling Language (UML), einer Modellierungssprache für Software und andere Systeme, und stellt die Vernetzung von elementaren Aktionen und deren Verbindungen mit Kontroll- und Datenflüssen grafisch dar.
+
+	•	Anwendungsfalldiagramm (Use-Cases) 
+	•	In der Unified Modeling Language (UML) dienen Use Case Diagramme bzw. Anwendungsfalldiagramme zur Zusammenfassung der Angaben über die Benutzer in einem System (auch als Akteure bezeichnet) und deren Interaktionen mit dem System. Zur Erstellung von Anwendungsfalldiagrammen wird ein Satz spezieller Symbole und Konnektoren verwendet. Ein effektives UML-Anwendungsfalldiagramm unterstützt die Thematisierung und Veranschaulichung von:
+	•	Szenarien, in denen Ihr System bzw. Ihre Anwendung mit Personen, Organisationen oder externen Systemen interagiert
+	•	Ziele, bei deren Verwirklichung Ihr System bzw. Ihre Anwendung diese (als Akteure bezeichneten) Entitäten unterstützt
+	•	Umfang Ihres Systems
+
+	•	Sequenzdiagramm 
+	•	Ein Sequenzdiagramm ist eine Art von Interaktionsdiagramm in der Unified Modeling Language (kurz: UML) und bildet die Interaktion zwischen einer Gruppe von Objekten sowie die Reihenfolge ab.
+	•	Software-Entwickler und Unternehmen greifen auf diese Diagramme zurück, um zu verstehen, welche Anforderungen ein neues System stellt oder um bereits bestehende Prozesse grafisch festzuhalten. Ein Sequenzdiagramm kann auch als Ereignisdiagramm oder Ereignisszenario bezeichnet werden.
+
+
+
+
+	•	Zustandsdiagramm/Zustandsautomat 
+	•	Als Zustandsautomat wird ein Gerät bezeichnet, das den Status eines Objekts zu einem bestimmten Zeitpunkt aufzeichnet und auf der Basis der jeweils empfangenen Eingaben Statusänderungen bzw. weitere Aktionen auslösen kann. Der Begriff „Zustand“ bezieht sich dabei nicht auf das Verhalten des betreffenden Objekts, sondern auf die unterschiedlichen Kombinationen der darin enthaltenen Informationen. Zum besseren Verständnis der unterschiedlichen Zustände kann es nützlich sein, sämtliche möglichen Zustände abzubilden und zu veranschaulichen, wie sie jeweils erreicht werden. Dazu bietet sich ein UML-Zustandsdiagramm an.
+
+
+	•	Komponentendiagramm 
+	•	Ein UML Komponentendiagramm stellt die Struktur und Beziehung zwischen verschiedenen Komponenten in einem System dar.
+	•	Im Kontext von UML bezeichnet der Begriff „Komponente“ ein Klassenmodul. Diese Klassen stellen unabhängige Systeme oder Teilsysteme dar, die über eine Schnittstelle mit den übrigen Bestandteilen des Systems verbunden werden können.
+
+
+
+	•	Verteilungsdiagramm 
+	•	Im Kontext der Unified Modeling Language (UML) gehört das Verteilungsdiagramm zur Familie der strukturellen Diagramme, da es einen Aspekt des Systems selbst beschreibt. In diesem Fall stellt das Verteilungsdiagramm die physische Verteilung von Informationen dar, die durch die Softwareprogramme in Hardwarekomponenten generiert werden. Die Information, die durch die Software generiert wird, nennt sich Artefakt. Bitte beachten Sie, dass dieser Begriff auch in anderen Modellansätzen wie BPMN verwendet wird, dort aber eine andere Bedeutung hat.
+
+Softwarearchitektur 
+	•	Anwendungslösungen unter Berücksichtigung der bestehenden Systemarchitektur entwerfen und realisieren 
+	•	Berücksichtigung bestehender Systeme und Altsysteme 
+	•	Anpassung bzw. Weiterentwicklung bestehender Software an eine neue Umgebung 
+	•	Bottom-Up- und Top-Down-Verfahren bei der Modellierung erläutern  
+	•	Top-Down:
+	•	System wird aus Gesamtübersicht in kleinere detailliertere Komponenten zerlegt
+	•	Aus „Was“ wird „Wie“
+	•	Entscheidungen von Architektem oder Führungsebene
+	•	Vorteile:
+	•	klare Gesamtstruktur
+	•	schnelle Umsetzung
+	•	Fokus auf strategische Ziele
+	•	Nachteile:
+	•	Potentiell ungenaue Details
+	•	Wenig Flexibilität
+	•	Distanz zwischen Entscheider und Umsetzern (vllt.)
+	•	Bottom-Up:
+	•	Entwicklung grundlegender Komponenten die zu einem kompletten System zusammengesetzt werden
+	•	Team kann Ideen einbringen und werden stärker einbezogen
+	•	Vorteile:
+	•	Code ist wiederverwendbarer
+	•	ermöglicht frühes testen
+	•	nützlich bei unklaren Problemen, da Konzentration auf einzelnen Bausteinen liegt
+	•	Nachteile:
+	•	unklare Gesamtvision anfänglich
+	•	Erfordert klaren Kontrollprozess, um im Rahmen zu bleiben
+	•	längere Planungsphase
+	•	Softwarearchitektur-Pattern 
+	•	Monolith 
+	•	Ein Software-Monolith, auch einfach als Monolith bezeichnet, ist eine Form der Softwarearchitektur, bei der alle Komponenten und Funktionen einer Anwendung in einem einzigen großen und zusammenhängenden Codebase integriert sind.
+	•	3-Schichten-Modell/3-Tier 
+	•	Eine dreischichtige Architektur ist eine etablierte Softwareanwendungsarchitektur, die Anwendungen in drei logische und physische Datenverarbeitungsschichten aufteilt: die Darstellungsschicht oder Benutzerschnittstelle; die Anwendungsschicht, wo Daten verarbeitet werden; und die Datenschicht, in der die mit der Anwendung verbundenen Daten gespeichert und verwaltet werden.
+	•	Schichtenmodell/Layers 
+	•	Die Schichtenarchitektur (auch Schichtenmodell oder Schichtenmuster) ist ein häufig angewandtes Strukturierungsprinzip für die Architektur von Softwaresystemen. Dabei werden einzelne Aspekte des Softwaresystems konzeptionell einer Schicht (engl. tier oder layer) zugeordnet. Die erlaubten Abhängigkeitsbeziehungen zwischen den Aspekten werden bei einer Schichtenarchitektur dahingehend eingeschränkt, dass Aspekte einer höheren Schicht nur solche tieferer Schichten verwenden dürfen. Ein System mit Schichtenarchitektur bezeichnet man auch als „mehrschichtig“.
+	•	Microservices 
+	•	Microservices sind ein Design-Pattern in der Softwarearchitektur, das zum Ziel hat, durch kleinere Teams und konzentriertere Verantwortlichkeiten Kommunikationswege zu verkürzen und so zu einer geringeren Time-to-market zu gelangen.
+	•	Die grundlegenden Ideen von Microservices gehen auf die Unix-Prinzipien zurück, die bereits 1978 von Doug McIlroy formuliert wurden. Laut ihm sollten Programme so gestaltet werden, dass sie:
+	•	genau eine Aufgabe haben und diese dafür gut erfüllen,
+	•	hintereinander geschachtelt werden können, sodass ein Programm die Eingabe für ein anderes Programm produziert,
+	•	früh getestet und gegebenenfalls wieder aufgegeben werden können,
+	•	Tools für wiederkehrende Aufgaben bei der Entwicklung nutzen.
+	•	Model View Controller (MVC) 
+	•	Das Model-View-Controller (MVC)-Paradigma ist ein weit verbreitetes Architektur-Pattern in der Softwareentwicklung, das die Strukturierung von Anwendungen in drei Hauptkomponenten ermöglicht: das Model, die View und den Controller.
+	•	Model View Presenter (MVP) 
+	•	ist ein Entwurfsmuster in der Softwareentwicklung, das aus dem Model View Controller (MVC) hervorgegangen ist. Es beschreibt einen neuartigen Ansatz, um das Modell (engl. model) und die Ansicht (engl. view) komplett voneinander zu trennen und über einen Präsentierer (engl. presenter) zu verbinden. Dabei steht neben einer deutlich verbesserten Testbarkeit auch die strengere Trennung der einzelnen Komponenten im Gegensatz zu MVC im Vordergrund.
+	•	Pipes and Filters 
+	•	Pipes und Filter (englisch pipes-and-filters, auch Datenfluss-System) ist ein Architekturmuster aus dem Bereich der Softwareentwicklung. Es beschreibt die Struktur für Systeme, die Datenströme verarbeiten.  
+	•	Zustandslosigkeit, lose Kopplung 
+	•	Zustandslosigkeit
+	•	In der Informatik bezeichnet Zustandslosigkeit die Eigenschaft eines Kommunikationsprotokolls oder eines verteilten Systems, Anfragen grundsätzlich als voneinander unabhängige Transaktionen zu behandeln.
+	•	lose Kopplung
+	•	Lose Kopplung bezeichnet in der Informatik einen geringen Grad der Abhängigkeit mehrerer Hard- oder Software-Komponenten untereinander. Bei loser Kopplung eines Systems lassen sich Änderungen einzelner Komponenten oftmals einfacher durchführen, da die Änderung nur eine lokale Auswirkung hat. Wäre eine enge Kopplung gegeben, so bliebe die Änderung nicht lokal, sondern würde ggf. zusätzliche Anpassungen in allen gekoppelten Komponenten erfordern. Diesem Vorteil steht in einigen Fällen der Nachteil einer etwas geringeren Performance gegenüber. 
+	•	Container (Docker) und Kubernetes 
+Softwareergonomie
+	•	Mock-up 
+	•	Graphische Idee einer Applikation
+	•	Usability vs. User-Experience 
+	•	Usability is the ease and effectiveness of a product, while user experience (UX) is the overall feeling a user has when interacting with that product
+	•	Entwurf der Bildschirmausgabemasken (Softwareergonomie, Barrierefreiheit) 
+	•	Benutzerschnittstellen ergonomisch gestalten und an Kundenanforderungen anpassen 
+	•	übliche Gestaltungselemente für Benutzerschnittstellen (Controls): Button, Textfeld, Dropdown, Combobox usw. 
+	•	Richtlinien bei der Gestaltung von Programmoberflächen 
+	•	Aufgabenangemessenheit 
+	•	Selbstbeschreibungsfähigkeit 
+	•	Lernförderlichkeit 
+	•	Steuerbarkeit 
+	•	Erwartungskonformität 
+	•	Individualisierbarkeit 
+	•	Fehlertoleranz (siehe Grundsätze der Dialoggestaltung) 
+	•	Barrierefreiheit bzw. Inklusives Design 
+Software Engineering  
+	•	Entwicklungsprozesse 
+	•	Iterative Modelle z.B.: 
+	•	Spiralmodell
+	•	V-Modell (XT)
+	•	Wasserfallmodell 
+	•	Agile Modelle: 
+	•	Scrum
+	•	Extreme Programming
+	•	Kanban 
+	•	Entwicklungswerkzeuge: 
+	•	Editor
+	•	IDE
+	•	Programmgenerator
+	•	Linker
+	•	Compiler
+	•	Interpreter
+	•	Debugger
+	•	Testsoftware
+	•	Versionsverwaltung  
+	•	Nutzung von Prinzipien einer systematischen Programmierung nutzen (SOLID-Prinzipien)
+	•	Single Responsibility Principle (SRP): Eine Klasse sollte nur einen einzigen Grund zur Änderung haben, d.h. sie hat nur eine einzige Verantwortung.
+	•	Open/Closed Principle (OCP): Software-Entitäten (Klassen, Module etc.) sollten offen für Erweiterungen, aber geschlossen für Modifikationen sein.
+	•	Liskov Substitution Principle (LSP): Subtypen müssen durch ihre Basistypen ersetzbar sein, ohne dass die Korrektheit des Programms beeinträchtigt wird.
+	•	Interface Segregation Principle (ISP): Clients sollten nicht gezwungen werden, sich auf Schnittstellen zu verlassen, die sie nicht verwenden.
+	•	Dependency Inversion Principle (DIP): Hochrangige Module sollten nicht von niedrigrangigen Modulen abhängen; beide sollten von Abstraktionen abhängen.   
+Design Patterns 
+	•	Design Patterns kennen/erklären/implementieren 
+	•	Singleton, Observer, Factory, Adapter, Iterator, Strategy, Decorator, Template Method, Registry, MVC 
+	•	Singleton
+	•	The Singleton pattern disables all other means of creating objects of a class except for the special creation method. This method either creates a new object or returns an existing one if it has already been created. Use the Singleton pattern when you need stricter control over global variables.
+	•	Observer
+	•	Observer is a behavioral design pattern that lets you define a subscription mechanism to notify multiple objects about any events that happen to the object they’re observing.
+	•	Factory
+	•	Factory Method is a creational design pattern that provides an interface for creating objects in a superclass, but allows subclasses to alter the type of objects that will be created.
+	•	Adapter
+	•	Adapter is a structural design pattern that allows objects with incompatible interfaces to collaborate.
+	•	You can create an adapter. This is a special object that converts the interface of one object so that another object can understand it.
+	•	Iterator
+	•	Iterator is a behavioral design pattern that lets you traverse elements of a collection without exposing its underlying representation (list, stack, tree, etc.).
+	•	Strategy
+	•	Strategy is a behavioral design pattern that lets you define a family of algorithms, put each of them into a separate class, and make their objects interchangeable.
+	•	The Strategy pattern suggests that you take a class that does something specific in a lot of different ways and extract all of these algorithms into separate classes called strategies.
+	•	The original class, called context, must have a field for storing a reference to one of the strategies. The context delegates the work to a linked strategy object instead of executing it on its own.
+	•	Decorator
+	•	Decorator is a structural design pattern that lets you attach new behaviors to objects by placing these objects inside special wrapper objects that contain the behaviors.
+	•	Template Method
+	•	Template Method is a behavioral design pattern that defines the skeleton of an algorithm in the superclass but lets subclasses override specific steps of the algorithm without changing its structure.
+	•	Registry
+	•	The Registry Pattern is a design pattern used in software development to manage and access shared objects or instances centrally. It involves creating a registry that keeps track of objects, allowing different program parts to look up and use these objects easily. This pattern helps reduce dependencies and simplify object management by providing a single place to register and retrieve instances. It's useful in scenarios where multiple objects need to share a common resource or service, making the code cleaner and more organized.
+Softwarequalität
+	•	Beachten von Qualitätskriterien beim Programmieren mit branchentypischen Werkzeugen, Editoren, Entwicklungsumgebungen 
+	•	Anforderungen: Änderbarkeit/Erweiterbarkeit, Benutzbarkeit, Effizienz, Funktionalität, Übertragbarkeit, Zuverlässigkeit, Wartbarkeit, Normen anwenden 
+	•	Definition Software-Qualität 
+	•	Softwarequalität ist die Gesamtheit aller Merkmale einer Software, die deren Eignung beschreiben, festgelegte oder vorausgesetzte Erfordernisse zu erfüllen. Sie umfasst Aspekte wie Funktionalität, Zuverlässigkeit, Benutzerfreundlichkeit, Leistungseffizienz, Sicherheit, Wartbarkeit und Kompatibilität, die alle dazu dienen, die Anforderungen von Nutzern und Stakeholdern zu erfüllen.
+	•	Software-Qualitätsmerkmale nach ISO 9126 nennen und erläutern 
+	•	Funktionalität: Angemessenheit, Interoperabilität, Ordnungsmäßigkeit, Richtigkeit, Sicherheit 
+	•	Änderbarkeit: Analysierbarkeit, Modifizierbarkeit, Testbarkeit, Stabilität 
+	•	Übertragbarkeit: Anpassbarkeit, Austauschbarkeit, Installierbarkeit, Koexistenz 
+	•	Effizienz: Verbrauchsverhalten, Zeitverhalten 
+	•	Zuverlässigkeit: Fehlertoleranz, Reife, Wiederherstellbarkeit 
+	•	Benutzbarkeit: Attraktivität, Bedienbarkeit, Erlernbarkeit, Verständlichkeit 
+	•	Software-Qualitätsmerkmale nach ISO 25010 nennen und erläutern 
+	•	Functional Suitability: Functional Completeness, Functional Correctness, Functional Appropriateness 
+	•	Performance Efficiency: Time Behaviour, Resource Utilization, Capacity 
+	•	Compatibility: Co-existence, Interoperability 
+	•	Usability: Appropriateness Recognizability, Learability, Operability, User Error Protection, User Interface Aesthetics, Accessibility 
+	•	Reliability: Maturity, Availability, Fault Tolerance, Recoverability 
+	•	Security: Confidentiality, Integrity, Non-repudiation, Authenticity, Accountability 
+	•	Maintainability: Modularity, Reusability, Analysability, Modifiability, Testability 
+	•	Portability: Adaptability, Installability, Replaceability 
+	•	Maßnahmen zur Qualitätssicherung 
+	•	Audits, Code Reviews, Testmethoden, Entwicklungsprozess, Dokumentation, statische Codeanalyse, Pair Programming, Bugtracking 
+	•	Continuous Integration/Delivery/Deployment 
+	•	Dokumentation 
+	•	Benutzerdokumentation (Handbuch) 
+	•	Schnittstellendokumentation 
+	•	Programmdokumentation (Source Code) 
+	•	Konfigurationsdokumentation
+	•	Netzwerkdokumentation 
+	•	Testprotokolle 
+	•	Checklisten 
+Webentwicklung 
+	•	dynamische Websites (CGI, ASP, JSP, PHP)  
+	•	Web 2.0 
+	•	Social Networks, Wikis, Blogs, Twitter, Forum, Podcast 
+	•	Web 3.0 
+	•	Anforderungen durch Mobilgeräte 
+	•	Offline-Fähigkeit, Deployment auf mehrere Plattformen, verschiedene Programmiersprachen, native Apps vs. HTML5/JavaScript, geringe Bandbreiten, kleine Auflösungen 
+	•	Angriffsmöglichkeiten gegen Anwendungen abgrenzen 
+	•	SQL-Injection, XSS, CSRF, Session Hijacking, DoS, DDoS 
+	•	HTTP 
+	•	Methoden kennen und einordnen: safe/sicher, idempotent 
+	•	Status-Codes kennen (z.B. 200, 404) 
+
