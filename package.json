@@ -1,0 +1,47 @@
+{
+  "name": "ihk-ap2",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt dev",
+    "build": "nuxt build",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare",
+    "db:generate": "drizzle-kit generate",
+    "db:push": "drizzle-kit push",
+    "db:studio": "drizzle-kit studio",
+    "db:seed": "tsx server/db/seed.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/steffen-krause/ihk-ap2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/steffen-krause/ihk-ap2/issues"
+  },
+  "homepage": "https://github.com/steffen-krause/ihk-ap2#readme",
+  "dependencies": {
+    "drizzle-orm": "^0.45.1",
+    "nuxt": "^4.4.2",
+    "postgres": "^3.4.8",
+    "vue": "^3.5.30",
+    "vue-router": "^5.0.4"
+  },
+  "devDependencies": {
+    "@nuxtjs/tailwindcss": "^6.14.0",
+    "@tailwindcss/typography": "^0.5.19",
+    "@types/canvas-confetti": "^1.9.0",
+    "@types/node": "^25.5.0",
+    "@vueuse/nuxt": "^14.2.1",
+    "canvas-confetti": "^1.9.4",
+    "drizzle-kit": "^0.31.10",
+    "tsx": "^4.21.0",
+    "typescript": "^6.0.2"
+  }
+}

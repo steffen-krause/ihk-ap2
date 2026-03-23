@@ -1,0 +1,1 @@
+DATABASE_URL=postgres://ihk:ihk@localhost:5433/ihk_ap2
