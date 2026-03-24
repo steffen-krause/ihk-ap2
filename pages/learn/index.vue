@@ -21,6 +21,7 @@ const showXpPopup = ref(false)
 const lastXp = ref(0)
 const showSummary = ref(false)
 const answering = ref(false)
+const waitingForNext = ref(false)
 
 const activeQuestion = computed(() => queue.value[currentIndex.value] ?? null)
 
@@ -80,15 +81,17 @@ async function handleAnswer(isCorrect: boolean, givenAnswer: any) {
     console.error('Fehler beim Speichern:', e)
   }
 
-  // Nächste Frage nach kurzer Pause
-  setTimeout(() => {
-    answering.value = false
-    if (currentIndex.value < queue.value.length - 1) {
-      currentIndex.value++
-    } else {
-      showSummary.value = true
-    }
-  }, 1800)
+  waitingForNext.value = true
+}
+
+function goToNext() {
+  waitingForNext.value = false
+  answering.value = false
+  if (currentIndex.value < queue.value.length - 1) {
+    currentIndex.value++
+  } else {
+    showSummary.value = true
+  }
 }
 
 function restart() {
@@ -225,13 +228,25 @@ function restart() {
         @answer="handleAnswer"
       />
 
-      <!-- Erklärung nach Antwort -->
+      <!-- Erklärung + Weiter-Button nach Antwort -->
       <Transition name="slide-up">
         <div
-          v-if="answering && activeQuestion.explanation"
-          class="mt-4 p-4 rounded-lg bg-accent/5 border border-accent/20 text-sm text-text-secondary"
+          v-if="waitingForNext"
+          class="mt-4 space-y-4"
         >
-          <span class="font-semibold text-accent">Erklärung:</span> {{ activeQuestion.explanation }}
+          <div
+            v-if="activeQuestion.explanation"
+            class="p-4 rounded-lg bg-accent/5 border border-accent/20 text-sm text-text-secondary"
+          >
+            <span class="font-semibold text-accent">Erklärung:</span> {{ activeQuestion.explanation }}
+          </div>
+
+          <button
+            class="w-full py-3 rounded-lg font-semibold text-sm bg-accent hover:bg-accent-bright text-white transition-all"
+            @click="goToNext"
+          >
+            Weiter →
+          </button>
         </div>
       </Transition>
     </div>
